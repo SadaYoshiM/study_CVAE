@@ -1,0 +1,10810 @@
+initMakeLabels:0
+completed.
+initMakeLabels:1
+completed.
+initMakeLabels:2
+completed.
+initMakeLabels:3
+completed.
+initMakeLabels:4
+completed.
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.65
+A2D: 0.65
+
+Loop 0
+Now Data Length : 5
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.65
+A2D: 0.65
+
+Loop 1
+Now Data Length : 5
+
+##parameters##
+wall: 0.48
+enemies: 0.525
+A2K: 0.65
+A2D: 0.65
+
+Loop 2
+Now Data Length : 14
+
+##parameters##
+wall: 0.48
+enemies: 0.525
+A2K: 0.65
+A2D: 0.65
+
+Loop 3
+Now Data Length : 21
+
+##parameters##
+wall: 0.48
+enemies: 0.525
+A2K: 0.65
+A2D: 0.632
+
+Loop 4
+Now Data Length : 26
+
+##parameters##
+wall: 0.435
+enemies: 0.525
+A2K: 0.65
+A2D: 0.632
+
+Loop 5
+Now Data Length : 31
+
+##parameters##
+wall: 0.435
+enemies: 0.525
+A2K: 0.65
+A2D: 0.632
+
+Loop 6
+Now Data Length : 31
+
+##parameters##
+wall: 0.435
+enemies: 0.525
+A2K: 0.65
+A2D: 0.632
+
+Loop 7
+Now Data Length : 31
+
+##parameters##
+wall: 0.435
+enemies: 0.525
+A2K: 0.65
+A2D: 0.6158
+
+Loop 8
+Now Data Length : 33
+
+##parameters##
+wall: 0.435
+enemies: 0.525
+A2K: 0.65
+A2D: 0.6158
+
+Loop 9
+Now Data Length : 33
+
+##parameters##
+wall: 0.435
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.6158
+
+Loop 10
+Now Data Length : 34
+
+##parameters##
+wall: 0.435
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.6158
+
+Loop 11
+Now Data Length : 36
+
+##parameters##
+wall: 0.435
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.60122
+
+Loop 12
+Now Data Length : 39
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.60122
+
+Loop 13
+Now Data Length : 42
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.60122
+
+Loop 14
+Now Data Length : 42
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.60122
+
+Loop 15
+Now Data Length : 42
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.588098
+
+Loop 16
+Now Data Length : 44
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.588098
+
+Loop 17
+Now Data Length : 44
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.588098
+
+Loop 18
+Now Data Length : 44
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.588098
+
+Loop 19
+Now Data Length : 44
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 20
+Now Data Length : 47
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 21
+Now Data Length : 47
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 22
+Now Data Length : 48
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 23
+Now Data Length : 49
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 24
+Now Data Length : 49
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.48450000000000004
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 25
+Now Data Length : 49
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 26
+Now Data Length : 50
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.5762882
+
+Loop 27
+Now Data Length : 50
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 28
+Now Data Length : 51
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 29
+Now Data Length : 51
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 30
+Now Data Length : 51
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 31
+Now Data Length : 51
+
+##parameters##
+wall: 0.39449999999999996
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 32
+Now Data Length : 51
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 33
+Now Data Length : 52
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 34
+Now Data Length : 52
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 35
+Now Data Length : 53
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 36
+Now Data Length : 53
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 37
+Now Data Length : 54
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 38
+Now Data Length : 54
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 39
+Now Data Length : 54
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 40
+Now Data Length : 54
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 41
+Now Data Length : 54
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 42
+Now Data Length : 54
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.56565938
+
+Loop 43
+Now Data Length : 59
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.556093442
+
+Loop 44
+Now Data Length : 64
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.52095
+A2K: 0.65
+A2D: 0.556093442
+
+Loop 45
+Now Data Length : 65
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.488145
+A2K: 0.65
+A2D: 0.556093442
+
+Loop 46
+Now Data Length : 67
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.488145
+A2K: 0.65
+A2D: 0.556093442
+
+Loop 47
+Now Data Length : 71
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.488145
+A2K: 0.65
+A2D: 0.5474840978
+
+Loop 48
+Now Data Length : 73
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.488145
+A2K: 0.65
+A2D: 0.5474840978
+
+Loop 49
+Now Data Length : 80
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5474840978
+
+Loop 50
+Now Data Length : 85
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5474840978
+
+Loop 51
+Now Data Length : 85
+
+##parameters##
+wall: 0.43094999999999994
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 52
+Now Data Length : 86
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 53
+Now Data Length : 90
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 54
+Now Data Length : 90
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 55
+Now Data Length : 90
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 56
+Now Data Length : 90
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 57
+Now Data Length : 90
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 58
+Now Data Length : 91
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 59
+Now Data Length : 91
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 60
+Now Data Length : 91
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 61
+Now Data Length : 91
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 62
+Now Data Length : 91
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5397356880199999
+
+Loop 63
+Now Data Length : 91
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 64
+Now Data Length : 92
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 65
+Now Data Length : 92
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 66
+Now Data Length : 92
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 67
+Now Data Length : 93
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 68
+Now Data Length : 93
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 69
+Now Data Length : 93
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 70
+Now Data Length : 93
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 71
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 72
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 73
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 74
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 75
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 76
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 77
+Now Data Length : 95
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 78
+Now Data Length : 96
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 79
+Now Data Length : 96
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 80
+Now Data Length : 96
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 81
+Now Data Length : 96
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 82
+Now Data Length : 96
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.532762119218
+
+Loop 83
+Now Data Length : 97
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 84
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 85
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 86
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 87
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 88
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 89
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 90
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 91
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 92
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 93
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 94
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 95
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 96
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 97
+Now Data Length : 98
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 98
+Now Data Length : 99
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 99
+Now Data Length : 99
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 100
+Now Data Length : 99
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 101
+Now Data Length : 99
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 102
+Now Data Length : 99
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5264859072961999
+
+Loop 103
+Now Data Length : 99
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 104
+Now Data Length : 101
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 105
+Now Data Length : 101
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 106
+Now Data Length : 101
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 107
+Now Data Length : 101
+
+##parameters##
+wall: 0.3981449999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 108
+Now Data Length : 101
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 109
+Now Data Length : 102
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 110
+Now Data Length : 102
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 111
+Now Data Length : 102
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 112
+Now Data Length : 102
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 113
+Now Data Length : 103
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.65
+A2D: 0.5208373165665799
+
+Loop 114
+Now Data Length : 105
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5208373165665799
+
+Loop 115
+Now Data Length : 106
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5208373165665799
+
+Loop 116
+Now Data Length : 106
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5208373165665799
+
+Loop 117
+Now Data Length : 108
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5208373165665799
+
+Loop 118
+Now Data Length : 110
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5208373165665799
+
+Loop 119
+Now Data Length : 111
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.515753584909922
+
+Loop 120
+Now Data Length : 113
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.515753584909922
+
+Loop 121
+Now Data Length : 115
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.515753584909922
+
+Loop 122
+Now Data Length : 117
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.515753584909922
+
+Loop 123
+Now Data Length : 119
+
+##parameters##
+wall: 0.4276694999999999
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5111782264189297
+
+Loop 124
+Now Data Length : 122
+
+##parameters##
+wall: 0.45424154999999994
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5111782264189297
+
+Loop 125
+Now Data Length : 126
+
+##parameters##
+wall: 0.45424154999999994
+enemies: 0.5176695
+A2K: 0.632
+A2D: 0.5111782264189297
+
+Loop 126
+Now Data Length : 128
+
+##parameters##
+wall: 0.45424154999999994
+enemies: 0.5176695
+A2K: 0.6482
+A2D: 0.5111782264189297
+
+Loop 127
+Now Data Length : 130
+
+##parameters##
+wall: 0.45424154999999994
+enemies: 0.5176695
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 128
+Now Data Length : 135
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.5176695
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 129
+Now Data Length : 136
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.54424155
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 130
+Now Data Length : 137
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.54424155
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 131
+Now Data Length : 137
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.54424155
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 132
+Now Data Length : 137
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.54424155
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 133
+Now Data Length : 137
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 134
+Now Data Length : 139
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.5070604037770368
+
+Loop 135
+Now Data Length : 139
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 136
+Now Data Length : 140
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 137
+Now Data Length : 140
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 138
+Now Data Length : 143
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 139
+Now Data Length : 146
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 140
+Now Data Length : 146
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 141
+Now Data Length : 152
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 142
+Now Data Length : 153
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.503354363399333
+
+Loop 143
+Now Data Length : 154
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.5000189270593998
+
+Loop 144
+Now Data Length : 156
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.5000189270593998
+
+Loop 145
+Now Data Length : 158
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.5000189270593998
+
+Loop 146
+Now Data Length : 163
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.5000189270593998
+
+Loop 147
+Now Data Length : 165
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.4970170343534598
+
+Loop 148
+Now Data Length : 166
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.520326705
+A2K: 0.6482
+A2D: 0.4970170343534598
+
+Loop 149
+Now Data Length : 167
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.5418500655
+A2K: 0.6482
+A2D: 0.4970170343534598
+
+Loop 150
+Now Data Length : 169
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.5418500655
+A2K: 0.6482
+A2D: 0.4970170343534598
+
+Loop 151
+Now Data Length : 171
+
+##parameters##
+wall: 0.4303267049999999
+enemies: 0.5418500655
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 152
+Now Data Length : 172
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5418500655
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 153
+Now Data Length : 173
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 154
+Now Data Length : 174
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 155
+Now Data Length : 175
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 156
+Now Data Length : 175
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 157
+Now Data Length : 175
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 158
+Now Data Length : 178
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 159
+Now Data Length : 181
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 160
+Now Data Length : 182
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 161
+Now Data Length : 182
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 162
+Now Data Length : 183
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 163
+Now Data Length : 184
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 164
+Now Data Length : 184
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.5612210899500001
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 165
+Now Data Length : 186
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 166
+Now Data Length : 187
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4943153309181138
+
+Loop 167
+Now Data Length : 190
+
+##parameters##
+wall: 0.45185006549999995
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 168
+Now Data Length : 191
+
+##parameters##
+wall: 0.43247904104999996
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 169
+Now Data Length : 196
+
+##parameters##
+wall: 0.43247904104999996
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 170
+Now Data Length : 196
+
+##parameters##
+wall: 0.43247904104999996
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 171
+Now Data Length : 197
+
+##parameters##
+wall: 0.43247904104999996
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 172
+Now Data Length : 197
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 173
+Now Data Length : 198
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 174
+Now Data Length : 199
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 175
+Now Data Length : 199
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 176
+Now Data Length : 199
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 177
+Now Data Length : 201
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 178
+Now Data Length : 202
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 179
+Now Data Length : 202
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 180
+Now Data Length : 202
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.543787167945
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 181
+Now Data Length : 202
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 182
+Now Data Length : 203
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.4918837978263024
+
+Loop 183
+Now Data Length : 203
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 184
+Now Data Length : 204
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 185
+Now Data Length : 206
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 186
+Now Data Length : 206
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 187
+Now Data Length : 206
+
+##parameters##
+wall: 0.41504511904499997
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 188
+Now Data Length : 206
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 189
+Now Data Length : 209
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 190
+Now Data Length : 211
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 191
+Now Data Length : 211
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 192
+Now Data Length : 211
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 193
+Now Data Length : 211
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6482
+A2D: 0.48969541804367217
+
+Loop 194
+Now Data Length : 211
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.63362
+A2D: 0.48969541804367217
+
+Loop 195
+Now Data Length : 213
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.63362
+A2D: 0.48772587623930497
+
+Loop 196
+Now Data Length : 214
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.63362
+A2D: 0.48772587623930497
+
+Loop 197
+Now Data Length : 215
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.63362
+A2D: 0.48772587623930497
+
+Loop 198
+Now Data Length : 215
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 199
+Now Data Length : 216
+
+##parameters##
+wall: 0.4307356488495
+enemies: 0.5280966381405
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 200
+Now Data Length : 216
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.5280966381405
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 201
+Now Data Length : 217
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 202
+Now Data Length : 220
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 203
+Now Data Length : 222
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 204
+Now Data Length : 222
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 205
+Now Data Length : 227
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6467419999999999
+A2D: 0.48772587623930497
+
+Loop 206
+Now Data Length : 229
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.48772587623930497
+
+Loop 207
+Now Data Length : 230
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.48595328861537446
+
+Loop 208
+Now Data Length : 234
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.48595328861537446
+
+Loop 209
+Now Data Length : 234
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.48595328861537446
+
+Loop 210
+Now Data Length : 236
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.48595328861537446
+
+Loop 211
+Now Data Length : 237
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 212
+Now Data Length : 240
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.54221811496455
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 213
+Now Data Length : 241
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 214
+Now Data Length : 244
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 215
+Now Data Length : 246
+
+##parameters##
+wall: 0.44485712567355
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 216
+Now Data Length : 246
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 217
+Now Data Length : 248
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 218
+Now Data Length : 248
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 219
+Now Data Length : 248
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 220
+Now Data Length : 248
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 221
+Now Data Length : 248
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6585517999999999
+A2D: 0.484357959753837
+
+Loop 222
+Now Data Length : 249
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.484357959753837
+
+Loop 223
+Now Data Length : 250
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 224
+Now Data Length : 251
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 225
+Now Data Length : 251
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 226
+Now Data Length : 251
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 227
+Now Data Length : 253
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 228
+Now Data Length : 253
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 229
+Now Data Length : 253
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 230
+Now Data Length : 253
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.4829221637784533
+
+Loop 231
+Now Data Length : 253
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 232
+Now Data Length : 255
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.554927444106195
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 233
+Now Data Length : 255
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 234
+Now Data Length : 256
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 235
+Now Data Length : 256
+
+##parameters##
+wall: 0.432147796531905
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 236
+Now Data Length : 256
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 237
+Now Data Length : 258
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 238
+Now Data Length : 258
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.481629947400608
+
+Loop 239
+Now Data Length : 258
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 240
+Now Data Length : 259
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 241
+Now Data Length : 259
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 242
+Now Data Length : 260
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 243
+Now Data Length : 260
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 244
+Now Data Length : 260
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 245
+Now Data Length : 260
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 246
+Now Data Length : 260
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 247
+Now Data Length : 261
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 248
+Now Data Length : 261
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 249
+Now Data Length : 261
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 250
+Now Data Length : 261
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 251
+Now Data Length : 261
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 252
+Now Data Length : 262
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 253
+Now Data Length : 262
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 254
+Now Data Length : 262
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 255
+Now Data Length : 263
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 256
+Now Data Length : 263
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 257
+Now Data Length : 263
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 258
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 259
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 260
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 261
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 262
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 263
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 264
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 265
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 266
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 267
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 268
+Now Data Length : 264
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 269
+Now Data Length : 266
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 270
+Now Data Length : 266
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 271
+Now Data Length : 266
+
+##parameters##
+wall: 0.4207094003044245
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 272
+Now Data Length : 266
+
+##parameters##
+wall: 0.43100395690915694
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 273
+Now Data Length : 267
+
+##parameters##
+wall: 0.43100395690915694
+enemies: 0.5434890478787144
+A2K: 0.6479229799999999
+A2D: 0.4804669526605472
+
+Loop 274
+Now Data Length : 268
+
+##parameters##
+wall: 0.43100395690915694
+enemies: 0.5434890478787144
+A2K: 0.6383570419999999
+A2D: 0.4804669526605472
+
+Loop 275
+Now Data Length : 269
+
+##parameters##
+wall: 0.43100395690915694
+enemies: 0.5434890478787144
+A2K: 0.6383570419999999
+A2D: 0.4804669526605472
+
+Loop 276
+Now Data Length : 269
+
+##parameters##
+wall: 0.44026905785341613
+enemies: 0.5434890478787144
+A2K: 0.6383570419999999
+A2D: 0.4804669526605472
+
+Loop 277
+Now Data Length : 270
+
+##parameters##
+wall: 0.44026905785341613
+enemies: 0.533194491273982
+A2K: 0.6383570419999999
+A2D: 0.4804669526605472
+
+Loop 278
+Now Data Length : 271
+
+##parameters##
+wall: 0.44026905785341613
+enemies: 0.533194491273982
+A2K: 0.6297476977999998
+A2D: 0.4804669526605472
+
+Loop 279
+Now Data Length : 274
+
+##parameters##
+wall: 0.44026905785341613
+enemies: 0.533194491273982
+A2K: 0.6297476977999998
+A2D: 0.47942025739449246
+
+Loop 280
+Now Data Length : 276
+
+##parameters##
+wall: 0.43193046700358284
+enemies: 0.533194491273982
+A2K: 0.6297476977999998
+A2D: 0.47942025739449246
+
+Loop 281
+Now Data Length : 280
+
+##parameters##
+wall: 0.43193046700358284
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.47942025739449246
+
+Loop 282
+Now Data Length : 282
+
+##parameters##
+wall: 0.43193046700358284
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.47942025739449246
+
+Loop 283
+Now Data Length : 283
+
+##parameters##
+wall: 0.43193046700358284
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4784782316550432
+
+Loop 284
+Now Data Length : 284
+
+##parameters##
+wall: 0.4244257352387329
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4784782316550432
+
+Loop 285
+Now Data Length : 285
+
+##parameters##
+wall: 0.4244257352387329
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4784782316550432
+
+Loop 286
+Now Data Length : 286
+
+##parameters##
+wall: 0.4244257352387329
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4784782316550432
+
+Loop 287
+Now Data Length : 286
+
+##parameters##
+wall: 0.4244257352387329
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 288
+Now Data Length : 287
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 289
+Now Data Length : 288
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 290
+Now Data Length : 291
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 291
+Now Data Length : 291
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 292
+Now Data Length : 291
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.5424595922182412
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 293
+Now Data Length : 291
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 294
+Now Data Length : 292
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 295
+Now Data Length : 294
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 296
+Now Data Length : 294
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 297
+Now Data Length : 295
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 298
+Now Data Length : 295
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 299
+Now Data Length : 296
+
+##parameters##
+wall: 0.4311799938270979
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 300
+Now Data Length : 296
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 301
+Now Data Length : 298
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 302
+Now Data Length : 298
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.4776304084895389
+
+Loop 303
+Now Data Length : 298
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 304
+Now Data Length : 300
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 305
+Now Data Length : 300
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 306
+Now Data Length : 300
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 307
+Now Data Length : 302
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 308
+Now Data Length : 302
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 309
+Now Data Length : 302
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 310
+Now Data Length : 304
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 311
+Now Data Length : 304
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 312
+Now Data Length : 304
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 313
+Now Data Length : 308
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 314
+Now Data Length : 308
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 315
+Now Data Length : 310
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 316
+Now Data Length : 310
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.534121001368408
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 317
+Now Data Length : 310
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 318
+Now Data Length : 311
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.476867367640585
+
+Loop 319
+Now Data Length : 311
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 320
+Now Data Length : 313
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 321
+Now Data Length : 313
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 322
+Now Data Length : 314
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 323
+Now Data Length : 314
+
+##parameters##
+wall: 0.4251011610975694
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 324
+Now Data Length : 314
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 325
+Now Data Length : 315
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6297476977999998
+A2D: 0.4761806308765265
+
+Loop 326
+Now Data Length : 315
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.4761806308765265
+
+Loop 327
+Now Data Length : 316
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 328
+Now Data Length : 317
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 329
+Now Data Length : 319
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 330
+Now Data Length : 319
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 331
+Now Data Length : 319
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 332
+Now Data Length : 319
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 333
+Now Data Length : 319
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6374961075799999
+A2D: 0.47556256778887385
+
+Loop 334
+Now Data Length : 319
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47556256778887385
+
+Loop 335
+Now Data Length : 320
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47556256778887385
+
+Loop 336
+Now Data Length : 320
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47556256778887385
+
+Loop 337
+Now Data Length : 321
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47556256778887385
+
+Loop 338
+Now Data Length : 321
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47556256778887385
+
+Loop 339
+Now Data Length : 321
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47500631100998647
+
+Loop 340
+Now Data Length : 323
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47500631100998647
+
+Loop 341
+Now Data Length : 323
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47500631100998647
+
+Loop 342
+Now Data Length : 324
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47500631100998647
+
+Loop 343
+Now Data Length : 324
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47450567990898784
+
+Loop 344
+Now Data Length : 325
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47450567990898784
+
+Loop 345
+Now Data Length : 325
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47450567990898784
+
+Loop 346
+Now Data Length : 326
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.47450567990898784
+
+Loop 347
+Now Data Length : 328
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 348
+Now Data Length : 330
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 349
+Now Data Length : 330
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 350
+Now Data Length : 330
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 351
+Now Data Length : 330
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 352
+Now Data Length : 330
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 353
+Now Data Length : 331
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 354
+Now Data Length : 331
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 355
+Now Data Length : 331
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 356
+Now Data Length : 331
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 357
+Now Data Length : 331
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6305225387779999
+A2D: 0.4740551119180891
+
+Loop 358
+Now Data Length : 331
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6242463268561999
+A2D: 0.4740551119180891
+
+Loop 359
+Now Data Length : 332
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6242463268561999
+A2D: 0.47364960072628015
+
+Loop 360
+Now Data Length : 334
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.541625733133258
+A2K: 0.6242463268561999
+A2D: 0.47364960072628015
+
+Loop 361
+Now Data Length : 334
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6242463268561999
+A2D: 0.47364960072628015
+
+Loop 362
+Now Data Length : 335
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 363
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 364
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 365
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 366
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 367
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 368
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 369
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 370
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.47364960072628015
+
+Loop 371
+Now Data Length : 337
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 372
+Now Data Length : 338
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 373
+Now Data Length : 338
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 374
+Now Data Length : 339
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 375
+Now Data Length : 339
+
+##parameters##
+wall: 0.4196302116409938
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 376
+Now Data Length : 339
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.548379991721623
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 377
+Now Data Length : 340
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 378
+Now Data Length : 341
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4732846406536521
+
+Loop 379
+Now Data Length : 341
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 380
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 381
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 382
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 383
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 384
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 385
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 386
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 387
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 388
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 389
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 390
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 391
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 392
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 393
+Now Data Length : 342
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 394
+Now Data Length : 343
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 395
+Now Data Length : 343
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 396
+Now Data Length : 343
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 397
+Now Data Length : 343
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6298949175858198
+A2D: 0.4729561765882869
+
+Loop 398
+Now Data Length : 343
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 399
+Now Data Length : 344
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 400
+Now Data Length : 344
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 401
+Now Data Length : 344
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 402
+Now Data Length : 344
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 403
+Now Data Length : 344
+
+##parameters##
+wall: 0.4245540661519118
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 404
+Now Data Length : 344
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 405
+Now Data Length : 345
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 406
+Now Data Length : 345
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 407
+Now Data Length : 345
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 408
+Now Data Length : 346
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 409
+Now Data Length : 346
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 410
+Now Data Length : 346
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 411
+Now Data Length : 346
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 412
+Now Data Length : 346
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 413
+Now Data Length : 346
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 414
+Now Data Length : 347
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 415
+Now Data Length : 348
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 416
+Now Data Length : 348
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 417
+Now Data Length : 348
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 418
+Now Data Length : 348
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 419
+Now Data Length : 348
+
+##parameters##
+wall: 0.42012259709208555
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 420
+Now Data Length : 348
+
+##parameters##
+wall: 0.4241109192459292
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 421
+Now Data Length : 350
+
+##parameters##
+wall: 0.4241109192459292
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 422
+Now Data Length : 350
+
+##parameters##
+wall: 0.4241109192459292
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 423
+Now Data Length : 351
+
+##parameters##
+wall: 0.4241109192459292
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 424
+Now Data Length : 351
+
+##parameters##
+wall: 0.42770040918438845
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 425
+Now Data Length : 353
+
+##parameters##
+wall: 0.42770040918438845
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 426
+Now Data Length : 353
+
+##parameters##
+wall: 0.42770040918438845
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 427
+Now Data Length : 353
+
+##parameters##
+wall: 0.42770040918438845
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 428
+Now Data Length : 353
+
+##parameters##
+wall: 0.4309309501290018
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 429
+Now Data Length : 354
+
+##parameters##
+wall: 0.4309309501290018
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 430
+Now Data Length : 356
+
+##parameters##
+wall: 0.4309309501290018
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.4729561765882869
+
+Loop 431
+Now Data Length : 356
+
+##parameters##
+wall: 0.4309309501290018
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 432
+Now Data Length : 358
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5544588244511515
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 433
+Now Data Length : 359
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 434
+Now Data Length : 360
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 435
+Now Data Length : 360
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 436
+Now Data Length : 360
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 437
+Now Data Length : 362
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 438
+Now Data Length : 362
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.47266055892945824
+
+Loop 439
+Now Data Length : 362
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 440
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 441
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 442
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 443
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 444
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 445
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 446
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 447
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 448
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 449
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6248111859291618
+A2D: 0.4723945030365124
+
+Loop 450
+Now Data Length : 364
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 451
+Now Data Length : 366
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 452
+Now Data Length : 366
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 453
+Now Data Length : 366
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 454
+Now Data Length : 366
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 455
+Now Data Length : 366
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 456
+Now Data Length : 366
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 457
+Now Data Length : 367
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 458
+Now Data Length : 367
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 459
+Now Data Length : 367
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 460
+Now Data Length : 367
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 461
+Now Data Length : 367
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 462
+Now Data Length : 371
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4723945030365124
+
+Loop 463
+Now Data Length : 371
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 464
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 465
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 466
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 467
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 468
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 469
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 470
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 471
+Now Data Length : 372
+
+##parameters##
+wall: 0.4338384369791538
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 472
+Now Data Length : 372
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 473
+Now Data Length : 373
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 474
+Now Data Length : 373
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 475
+Now Data Length : 373
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 476
+Now Data Length : 373
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 477
+Now Data Length : 373
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6202358274381696
+A2D: 0.4721550527328612
+
+Loop 478
+Now Data Length : 373
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 479
+Now Data Length : 374
+
+##parameters##
+wall: 0.4364551751442906
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 480
+Now Data Length : 374
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 481
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 482
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 483
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 484
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 485
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 486
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 487
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 488
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 489
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6243536500800626
+A2D: 0.4721550527328612
+
+Loop 490
+Now Data Length : 376
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.4721550527328612
+
+Loop 491
+Now Data Length : 377
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.4721550527328612
+
+Loop 492
+Now Data Length : 377
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.4721550527328612
+
+Loop 493
+Now Data Length : 377
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.4721550527328612
+
+Loop 494
+Now Data Length : 377
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.4721550527328612
+
+Loop 495
+Now Data Length : 377
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 496
+Now Data Length : 378
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 497
+Now Data Length : 378
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 498
+Now Data Length : 378
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 499
+Now Data Length : 378
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 500
+Now Data Length : 378
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 501
+Now Data Length : 378
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 502
+Now Data Length : 379
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 503
+Now Data Length : 379
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 504
+Now Data Length : 379
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 505
+Now Data Length : 380
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 506
+Now Data Length : 380
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 507
+Now Data Length : 380
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 508
+Now Data Length : 380
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 509
+Now Data Length : 380
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 510
+Now Data Length : 382
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 511
+Now Data Length : 383
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 512
+Now Data Length : 383
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 513
+Now Data Length : 383
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 514
+Now Data Length : 385
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 515
+Now Data Length : 385
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 516
+Now Data Length : 386
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 517
+Now Data Length : 389
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 518
+Now Data Length : 389
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 519
+Now Data Length : 389
+
+##parameters##
+wall: 0.43881023949291376
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 520
+Now Data Length : 389
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5599297739077271
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 521
+Now Data Length : 390
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 522
+Now Data Length : 391
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 523
+Now Data Length : 392
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 524
+Now Data Length : 393
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 525
+Now Data Length : 393
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 526
+Now Data Length : 394
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47193954745957506
+
+Loop 527
+Now Data Length : 394
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47174559271361755
+
+Loop 528
+Now Data Length : 395
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5550059193968091
+A2K: 0.6280596904577663
+A2D: 0.47174559271361755
+
+Loop 529
+Now Data Length : 395
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5505744503369828
+A2K: 0.6280596904577663
+A2D: 0.47174559271361755
+
+Loop 530
+Now Data Length : 397
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5505744503369828
+A2K: 0.624724254117833
+A2D: 0.47174559271361755
+
+Loop 531
+Now Data Length : 399
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5505744503369828
+A2K: 0.624724254117833
+A2D: 0.4715710334422558
+
+Loop 532
+Now Data Length : 400
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5505744503369828
+A2K: 0.624724254117833
+A2D: 0.4715710334422558
+
+Loop 533
+Now Data Length : 400
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.624724254117833
+A2D: 0.4715710334422558
+
+Loop 534
+Now Data Length : 401
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4715710334422558
+
+Loop 535
+Now Data Length : 402
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4715710334422558
+
+Loop 536
+Now Data Length : 404
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4715710334422558
+
+Loop 537
+Now Data Length : 404
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4715710334422558
+
+Loop 538
+Now Data Length : 405
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4715710334422558
+
+Loop 539
+Now Data Length : 405
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.47141393009803023
+
+Loop 540
+Now Data Length : 409
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.47141393009803023
+
+Loop 541
+Now Data Length : 409
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.47141393009803023
+
+Loop 542
+Now Data Length : 409
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.47141393009803023
+
+Loop 543
+Now Data Length : 409
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4712725370882272
+
+Loop 544
+Now Data Length : 410
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4712725370882272
+
+Loop 545
+Now Data Length : 411
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.6217223614118931
+A2D: 0.4712725370882272
+
+Loop 546
+Now Data Length : 411
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 547
+Now Data Length : 413
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 548
+Now Data Length : 413
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 549
+Now Data Length : 414
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 550
+Now Data Length : 415
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 551
+Now Data Length : 418
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 552
+Now Data Length : 418
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 553
+Now Data Length : 418
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 554
+Now Data Length : 418
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4712725370882272
+
+Loop 555
+Now Data Length : 418
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4711452833794045
+
+Loop 556
+Now Data Length : 419
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5465861281831392
+A2K: 0.619020657976547
+A2D: 0.4711452833794045
+
+Loop 557
+Now Data Length : 419
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.4711452833794045
+
+Loop 558
+Now Data Length : 420
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.4711452833794045
+
+Loop 559
+Now Data Length : 421
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.471030755041464
+
+Loop 560
+Now Data Length : 423
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.471030755041464
+
+Loop 561
+Now Data Length : 425
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.471030755041464
+
+Loop 562
+Now Data Length : 426
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.471030755041464
+
+Loop 563
+Now Data Length : 426
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.4709276795373176
+
+Loop 564
+Now Data Length : 427
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.4709276795373176
+
+Loop 565
+Now Data Length : 428
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.4709276795373176
+
+Loop 566
+Now Data Length : 428
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.4709276795373176
+
+Loop 567
+Now Data Length : 431
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 568
+Now Data Length : 432
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 569
+Now Data Length : 435
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 570
+Now Data Length : 436
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 571
+Now Data Length : 436
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 572
+Now Data Length : 437
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 573
+Now Data Length : 438
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.619020657976547
+A2D: 0.47083491158358587
+
+Loop 574
+Now Data Length : 438
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.6214521910683585
+A2D: 0.47083491158358587
+
+Loop 575
+Now Data Length : 439
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.6214521910683585
+A2D: 0.4707514204252273
+
+Loop 576
+Now Data Length : 440
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5501756181215985
+A2K: 0.6214521910683585
+A2D: 0.4707514204252273
+
+Loop 577
+Now Data Length : 440
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.4707514204252273
+
+Loop 578
+Now Data Length : 441
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.4707514204252273
+
+Loop 579
+Now Data Length : 444
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 580
+Now Data Length : 448
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 581
+Now Data Length : 448
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 582
+Now Data Length : 448
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 583
+Now Data Length : 448
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 584
+Now Data Length : 450
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 585
+Now Data Length : 450
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6214521910683585
+A2D: 0.47067627838270454
+
+Loop 586
+Now Data Length : 450
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6192638112857283
+A2D: 0.47067627838270454
+
+Loop 587
+Now Data Length : 454
+
+##parameters##
+wall: 0.4409297974066746
+enemies: 0.5469450771769852
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 588
+Now Data Length : 459
+
+##parameters##
+wall: 0.4428373995290593
+enemies: 0.5469450771769852
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 589
+Now Data Length : 460
+
+##parameters##
+wall: 0.4428373995290593
+enemies: 0.5498525640271371
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 590
+Now Data Length : 463
+
+##parameters##
+wall: 0.4428373995290593
+enemies: 0.5498525640271371
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 591
+Now Data Length : 465
+
+##parameters##
+wall: 0.4428373995290593
+enemies: 0.5498525640271371
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 592
+Now Data Length : 468
+
+##parameters##
+wall: 0.4445542414392056
+enemies: 0.5498525640271371
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 593
+Now Data Length : 469
+
+##parameters##
+wall: 0.4445542414392056
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 594
+Now Data Length : 470
+
+##parameters##
+wall: 0.4445542414392056
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47060865054443407
+
+Loop 595
+Now Data Length : 470
+
+##parameters##
+wall: 0.4445542414392056
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 596
+Now Data Length : 473
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 597
+Now Data Length : 476
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 598
+Now Data Length : 476
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 599
+Now Data Length : 476
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 600
+Now Data Length : 476
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 601
+Now Data Length : 476
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.6192638112857283
+A2D: 0.47054778548999066
+
+Loop 602
+Now Data Length : 477
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47054778548999066
+
+Loop 603
+Now Data Length : 479
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.4704930069409916
+
+Loop 604
+Now Data Length : 481
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.4704930069409916
+
+Loop 605
+Now Data Length : 485
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.4704930069409916
+
+Loop 606
+Now Data Length : 488
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.4704930069409916
+
+Loop 607
+Now Data Length : 488
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 608
+Now Data Length : 491
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 609
+Now Data Length : 494
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 610
+Now Data Length : 496
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 611
+Now Data Length : 497
+
+##parameters##
+wall: 0.44300908372007397
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 612
+Now Data Length : 497
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 613
+Now Data Length : 498
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 614
+Now Data Length : 499
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 615
+Now Data Length : 499
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 616
+Now Data Length : 500
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5472358258620003
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 617
+Now Data Length : 500
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5448807615133772
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 618
+Now Data Length : 501
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5448807615133772
+A2K: 0.617294269481361
+A2D: 0.47044370624689247
+
+Loop 619
+Now Data Length : 502
+
+##parameters##
+wall: 0.4416184417728555
+enemies: 0.5448807615133772
+A2K: 0.617294269481361
+A2D: 0.4703993356222032
+
+Loop 620
+Now Data Length : 504
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.5448807615133772
+A2K: 0.617294269481361
+A2D: 0.4703993356222032
+
+Loop 621
+Now Data Length : 505
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.5427612035996163
+A2K: 0.617294269481361
+A2D: 0.4703993356222032
+
+Loop 622
+Now Data Length : 506
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.5427612035996163
+A2K: 0.617294269481361
+A2D: 0.4703993356222032
+
+Loop 623
+Now Data Length : 506
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.5427612035996163
+A2K: 0.617294269481361
+A2D: 0.4703594020599829
+
+Loop 624
+Now Data Length : 507
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.5427612035996163
+A2K: 0.617294269481361
+A2D: 0.4703594020599829
+
+Loop 625
+Now Data Length : 514
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703594020599829
+
+Loop 626
+Now Data Length : 515
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703594020599829
+
+Loop 627
+Now Data Length : 516
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 628
+Now Data Length : 519
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 629
+Now Data Length : 519
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 630
+Now Data Length : 520
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 631
+Now Data Length : 522
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 632
+Now Data Length : 522
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 633
+Now Data Length : 522
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 634
+Now Data Length : 522
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.4703234618539846
+
+Loop 635
+Now Data Length : 522
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 636
+Now Data Length : 526
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 637
+Now Data Length : 532
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 638
+Now Data Length : 533
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 639
+Now Data Length : 534
+
+##parameters##
+wall: 0.44036686402035885
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 640
+Now Data Length : 538
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 641
+Now Data Length : 539
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 642
+Now Data Length : 539
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 643
+Now Data Length : 539
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 644
+Now Data Length : 542
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 645
+Now Data Length : 542
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 646
+Now Data Length : 542
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 647
+Now Data Length : 544
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 648
+Now Data Length : 544
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.544668805722001
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 649
+Now Data Length : 545
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 650
+Now Data Length : 548
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.47029111566858617
+
+Loop 651
+Now Data Length : 552
+
+##parameters##
+wall: 0.4414932839976058
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.4702620041017276
+
+Loop 652
+Now Data Length : 553
+
+##parameters##
+wall: 0.4404795060180835
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.4702620041017276
+
+Loop 653
+Now Data Length : 554
+
+##parameters##
+wall: 0.4404795060180835
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.4702620041017276
+
+Loop 654
+Now Data Length : 555
+
+##parameters##
+wall: 0.4404795060180835
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.4702620041017276
+
+Loop 655
+Now Data Length : 557
+
+##parameters##
+wall: 0.4404795060180835
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.4702358036915548
+
+Loop 656
+Now Data Length : 559
+
+##parameters##
+wall: 0.4413919061996535
+enemies: 0.5429519638118548
+A2K: 0.617294269481361
+A2D: 0.4702358036915548
+
+Loop 657
+Now Data Length : 562
+
+##parameters##
+wall: 0.4413919061996535
+enemies: 0.5444971215309865
+A2K: 0.617294269481361
+A2D: 0.4702358036915548
+
+Loop 658
+Now Data Length : 563
+
+##parameters##
+wall: 0.4413919061996535
+enemies: 0.5444971215309865
+A2K: 0.617294269481361
+A2D: 0.4702358036915548
+
+Loop 659
+Now Data Length : 564
+
+##parameters##
+wall: 0.4413919061996535
+enemies: 0.5444971215309865
+A2K: 0.617294269481361
+A2D: 0.47021222332239937
+
+Loop 660
+Now Data Length : 566
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.5444971215309865
+A2K: 0.617294269481361
+A2D: 0.47021222332239937
+
+Loop 661
+Now Data Length : 567
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.47021222332239937
+
+Loop 662
+Now Data Length : 568
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.47021222332239937
+
+Loop 663
+Now Data Length : 571
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 664
+Now Data Length : 572
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 665
+Now Data Length : 574
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 666
+Now Data Length : 575
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 667
+Now Data Length : 575
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 668
+Now Data Length : 575
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 669
+Now Data Length : 577
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 670
+Now Data Length : 577
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.4701910009901594
+
+Loop 671
+Now Data Length : 578
+
+##parameters##
+wall: 0.44057074603624047
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.47017190089114347
+
+Loop 672
+Now Data Length : 580
+
+##parameters##
+wall: 0.4413097901833122
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.47017190089114347
+
+Loop 673
+Now Data Length : 581
+
+##parameters##
+wall: 0.4413097901833122
+enemies: 0.543106479583768
+A2K: 0.617294269481361
+A2D: 0.47017190089114347
+
+Loop 674
+Now Data Length : 581
+
+##parameters##
+wall: 0.4413097901833122
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47017190089114347
+
+Loop 675
+Now Data Length : 583
+
+##parameters##
+wall: 0.4413097901833122
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47015471080202914
+
+Loop 676
+Now Data Length : 585
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47015471080202914
+
+Loop 677
+Now Data Length : 588
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47015471080202914
+
+Loop 678
+Now Data Length : 592
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47015471080202914
+
+Loop 679
+Now Data Length : 592
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 680
+Now Data Length : 593
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 681
+Now Data Length : 593
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 682
+Now Data Length : 593
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 683
+Now Data Length : 593
+
+##parameters##
+wall: 0.4419749299156767
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 684
+Now Data Length : 593
+
+##parameters##
+wall: 0.4413763041565486
+enemies: 0.543106479583768
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 685
+Now Data Length : 594
+
+##parameters##
+wall: 0.4413763041565486
+enemies: 0.5418549018312714
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 686
+Now Data Length : 598
+
+##parameters##
+wall: 0.4413763041565486
+enemies: 0.5418549018312714
+A2K: 0.6155216818574305
+A2D: 0.47013923972182625
+
+Loop 687
+Now Data Length : 599
+
+##parameters##
+wall: 0.4413763041565486
+enemies: 0.5418549018312714
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 688
+Now Data Length : 605
+
+##parameters##
+wall: 0.44083754097333333
+enemies: 0.5418549018312714
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 689
+Now Data Length : 606
+
+##parameters##
+wall: 0.44083754097333333
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 690
+Now Data Length : 609
+
+##parameters##
+wall: 0.44083754097333333
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 691
+Now Data Length : 609
+
+##parameters##
+wall: 0.44083754097333333
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 692
+Now Data Length : 611
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 693
+Now Data Length : 615
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 694
+Now Data Length : 615
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 695
+Now Data Length : 615
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 696
+Now Data Length : 615
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 697
+Now Data Length : 615
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 698
+Now Data Length : 615
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701253157496436
+
+Loop 699
+Now Data Length : 616
+
+##parameters##
+wall: 0.44035265410843955
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701127841746793
+
+Loop 700
+Now Data Length : 617
+
+##parameters##
+wall: 0.43991625593003514
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701127841746793
+
+Loop 701
+Now Data Length : 618
+
+##parameters##
+wall: 0.43991625593003514
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701127841746793
+
+Loop 702
+Now Data Length : 619
+
+##parameters##
+wall: 0.43991625593003514
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701127841746793
+
+Loop 703
+Now Data Length : 619
+
+##parameters##
+wall: 0.43991625593003514
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701015057572114
+
+Loop 704
+Now Data Length : 620
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701015057572114
+
+Loop 705
+Now Data Length : 622
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701015057572114
+
+Loop 706
+Now Data Length : 623
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.4701015057572114
+
+Loop 707
+Now Data Length : 625
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 708
+Now Data Length : 628
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 709
+Now Data Length : 628
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 710
+Now Data Length : 628
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 711
+Now Data Length : 629
+
+##parameters##
+wall: 0.4403090142905991
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 712
+Now Data Length : 632
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 713
+Now Data Length : 633
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.5429813218085183
+A2K: 0.6155216818574305
+A2D: 0.47009135518149026
+
+Loop 714
+Now Data Length : 633
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.5429813218085183
+A2K: 0.613926352995893
+A2D: 0.47009135518149026
+
+Loop 715
+Now Data Length : 635
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.5429813218085183
+A2K: 0.613926352995893
+A2D: 0.47008221966334124
+
+Loop 716
+Now Data Length : 637
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.5429813218085183
+A2K: 0.613926352995893
+A2D: 0.47008221966334124
+
+Loop 717
+Now Data Length : 637
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47008221966334124
+
+Loop 718
+Now Data Length : 641
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47008221966334124
+
+Loop 719
+Now Data Length : 641
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 720
+Now Data Length : 642
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 721
+Now Data Length : 643
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 722
+Now Data Length : 647
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 723
+Now Data Length : 648
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 724
+Now Data Length : 648
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541967543828996
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 725
+Now Data Length : 651
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 726
+Now Data Length : 652
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 727
+Now Data Length : 655
+
+##parameters##
+wall: 0.44066249681510666
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 728
+Now Data Length : 656
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 729
+Now Data Length : 657
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 730
+Now Data Length : 658
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 731
+Now Data Length : 658
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 732
+Now Data Length : 658
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 733
+Now Data Length : 660
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 734
+Now Data Length : 662
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47007399769700714
+
+Loop 735
+Now Data Length : 666
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47006659792730643
+
+Loop 736
+Now Data Length : 668
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47006659792730643
+
+Loop 737
+Now Data Length : 670
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.613926352995893
+A2D: 0.47006659792730643
+
+Loop 738
+Now Data Length : 672
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.6124905570205094
+A2D: 0.47006659792730643
+
+Loop 739
+Now Data Length : 674
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.6124905570205094
+A2D: 0.47006659792730643
+
+Loop 740
+Now Data Length : 675
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.6124905570205094
+A2D: 0.47006659792730643
+
+Loop 741
+Now Data Length : 675
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.6124905570205094
+A2D: 0.47006659792730643
+
+Loop 742
+Now Data Length : 677
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.47006659792730643
+
+Loop 743
+Now Data Length : 679
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 744
+Now Data Length : 681
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 745
+Now Data Length : 681
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 746
+Now Data Length : 689
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 747
+Now Data Length : 692
+
+##parameters##
+wall: 0.44034436254304987
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 748
+Now Data Length : 692
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 749
+Now Data Length : 694
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.541055143647426
+A2K: 0.611198340642664
+A2D: 0.4700599381345758
+
+Loop 750
+Now Data Length : 696
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.541055143647426
+A2K: 0.6100353459026032
+A2D: 0.4700599381345758
+
+Loop 751
+Now Data Length : 697
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.541055143647426
+A2K: 0.6100353459026032
+A2D: 0.47005394432111824
+
+Loop 752
+Now Data Length : 701
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.541055143647426
+A2K: 0.6100353459026032
+A2D: 0.47005394432111824
+
+Loop 753
+Now Data Length : 701
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.540233983484013
+A2K: 0.6100353459026032
+A2D: 0.47005394432111824
+
+Loop 754
+Now Data Length : 703
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.540233983484013
+A2K: 0.6100353459026032
+A2D: 0.47005394432111824
+
+Loop 755
+Now Data Length : 703
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.540233983484013
+A2K: 0.6100353459026032
+A2D: 0.4700485498890064
+
+Loop 756
+Now Data Length : 704
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.540233983484013
+A2K: 0.6100353459026032
+A2D: 0.4700485498890064
+
+Loop 757
+Now Data Length : 706
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6100353459026032
+A2D: 0.4700485498890064
+
+Loop 758
+Now Data Length : 707
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700485498890064
+
+Loop 759
+Now Data Length : 708
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 760
+Now Data Length : 712
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 761
+Now Data Length : 712
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 762
+Now Data Length : 712
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 763
+Now Data Length : 714
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 764
+Now Data Length : 714
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 765
+Now Data Length : 718
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 766
+Now Data Length : 718
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700436949001058
+
+Loop 767
+Now Data Length : 719
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 768
+Now Data Length : 720
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 769
+Now Data Length : 720
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 770
+Now Data Length : 721
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 771
+Now Data Length : 721
+
+##parameters##
+wall: 0.440630683387901
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 772
+Now Data Length : 722
+
+##parameters##
+wall: 0.440372994627535
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 773
+Now Data Length : 723
+
+##parameters##
+wall: 0.440372994627535
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 774
+Now Data Length : 725
+
+##parameters##
+wall: 0.440372994627535
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700393254100952
+
+Loop 775
+Now Data Length : 728
+
+##parameters##
+wall: 0.440372994627535
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700353928690857
+
+Loop 776
+Now Data Length : 731
+
+##parameters##
+wall: 0.4406049145118644
+enemies: 0.5394949393369413
+A2K: 0.6110820411686579
+A2D: 0.4700353928690857
+
+Loop 777
+Now Data Length : 736
+
+##parameters##
+wall: 0.4406049145118644
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.4700353928690857
+
+Loop 778
+Now Data Length : 737
+
+##parameters##
+wall: 0.4406049145118644
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.4700353928690857
+
+Loop 779
+Now Data Length : 739
+
+##parameters##
+wall: 0.4406049145118644
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.47003185358217714
+
+Loop 780
+Now Data Length : 742
+
+##parameters##
+wall: 0.4403961866159679
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.47003185358217714
+
+Loop 781
+Now Data Length : 746
+
+##parameters##
+wall: 0.4403961866159679
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.47003185358217714
+
+Loop 782
+Now Data Length : 748
+
+##parameters##
+wall: 0.4403961866159679
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.47003185358217714
+
+Loop 783
+Now Data Length : 749
+
+##parameters##
+wall: 0.4403961866159679
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 784
+Now Data Length : 751
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5388297996045767
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 785
+Now Data Length : 752
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5382311738454486
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 786
+Now Data Length : 754
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5382311738454486
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 787
+Now Data Length : 755
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5382311738454486
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 788
+Now Data Length : 758
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5382311738454486
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 789
+Now Data Length : 759
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 790
+Now Data Length : 760
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 791
+Now Data Length : 760
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 792
+Now Data Length : 760
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 793
+Now Data Length : 762
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 794
+Now Data Length : 763
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 795
+Now Data Length : 768
+
+##parameters##
+wall: 0.4402083315096611
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 796
+Now Data Length : 769
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 797
+Now Data Length : 771
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 798
+Now Data Length : 773
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 799
+Now Data Length : 774
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 800
+Now Data Length : 774
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 801
+Now Data Length : 776
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 802
+Now Data Length : 779
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.47002866822395944
+
+Loop 803
+Now Data Length : 785
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.4700258014015635
+
+Loop 804
+Now Data Length : 787
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.4700258014015635
+
+Loop 805
+Now Data Length : 788
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6110820411686579
+A2D: 0.4700258014015635
+
+Loop 806
+Now Data Length : 788
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700258014015635
+
+Loop 807
+Now Data Length : 791
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700258014015635
+
+Loop 808
+Now Data Length : 791
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700258014015635
+
+Loop 809
+Now Data Length : 792
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700258014015635
+
+Loop 810
+Now Data Length : 797
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700258014015635
+
+Loop 811
+Now Data Length : 801
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002322126140716
+
+Loop 812
+Now Data Length : 804
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002322126140716
+
+Loop 813
+Now Data Length : 805
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002322126140716
+
+Loop 814
+Now Data Length : 805
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002322126140716
+
+Loop 815
+Now Data Length : 808
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002089913526646
+
+Loop 816
+Now Data Length : 810
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002089913526646
+
+Loop 817
+Now Data Length : 810
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002089913526646
+
+Loop 818
+Now Data Length : 810
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47002089913526646
+
+Loop 819
+Now Data Length : 810
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47001880922173983
+
+Loop 820
+Now Data Length : 812
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47001880922173983
+
+Loop 821
+Now Data Length : 813
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47001880922173983
+
+Loop 822
+Now Data Length : 817
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.47001880922173983
+
+Loop 823
+Now Data Length : 818
+
+##parameters##
+wall: 0.44003926191398496
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700169282995659
+
+Loop 824
+Now Data Length : 820
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5376924106622333
+A2K: 0.6101400154292087
+A2D: 0.4700169282995659
+
+Loop 825
+Now Data Length : 823
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5372075237973395
+A2K: 0.6101400154292087
+A2D: 0.4700169282995659
+
+Loop 826
+Now Data Length : 826
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5372075237973395
+A2K: 0.6101400154292087
+A2D: 0.4700169282995659
+
+Loop 827
+Now Data Length : 827
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5372075237973395
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 828
+Now Data Length : 829
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5372075237973395
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 829
+Now Data Length : 831
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 830
+Now Data Length : 833
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 831
+Now Data Length : 833
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 832
+Now Data Length : 836
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 833
+Now Data Length : 840
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6101400154292087
+A2D: 0.47001523546960927
+
+Loop 834
+Now Data Length : 840
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6092921922637043
+A2D: 0.47001523546960927
+
+Loop 835
+Now Data Length : 842
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6092921922637043
+A2D: 0.47001371192264835
+
+Loop 836
+Now Data Length : 850
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5367711256189351
+A2K: 0.6092921922637043
+A2D: 0.47001371192264835
+
+Loop 837
+Now Data Length : 850
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47001371192264835
+
+Loop 838
+Now Data Length : 855
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47001371192264835
+
+Loop 839
+Now Data Length : 855
+
+##parameters##
+wall: 0.43988709927787645
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.4700123407303835
+
+Loop 840
+Now Data Length : 857
+
+##parameters##
+wall: 0.4397501529053788
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.4700123407303835
+
+Loop 841
+Now Data Length : 860
+
+##parameters##
+wall: 0.4397501529053788
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.4700123407303835
+
+Loop 842
+Now Data Length : 863
+
+##parameters##
+wall: 0.4397501529053788
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.4700123407303835
+
+Loop 843
+Now Data Length : 866
+
+##parameters##
+wall: 0.4397501529053788
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47001110665734513
+
+Loop 844
+Now Data Length : 870
+
+##parameters##
+wall: 0.4398734046406267
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47001110665734513
+
+Loop 845
+Now Data Length : 872
+
+##parameters##
+wall: 0.4398734046406267
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47001110665734513
+
+Loop 846
+Now Data Length : 872
+
+##parameters##
+wall: 0.4398734046406267
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47001110665734513
+
+Loop 847
+Now Data Length : 875
+
+##parameters##
+wall: 0.4398734046406267
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47000999599161064
+
+Loop 848
+Now Data Length : 877
+
+##parameters##
+wall: 0.43976247807890356
+enemies: 0.5363783672583712
+A2K: 0.6092921922637043
+A2D: 0.47000999599161064
+
+Loop 849
+Now Data Length : 879
+
+##parameters##
+wall: 0.43976247807890356
+enemies: 0.5360248847338637
+A2K: 0.6092921922637043
+A2D: 0.47000999599161064
+
+Loop 850
+Now Data Length : 882
+
+##parameters##
+wall: 0.43976247807890356
+enemies: 0.5360248847338637
+A2K: 0.6085291514147505
+A2D: 0.47000999599161064
+
+Loop 851
+Now Data Length : 884
+
+##parameters##
+wall: 0.43976247807890356
+enemies: 0.5360248847338637
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 852
+Now Data Length : 886
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5360248847338637
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 853
+Now Data Length : 888
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 854
+Now Data Length : 889
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 855
+Now Data Length : 890
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 856
+Now Data Length : 890
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 857
+Now Data Length : 891
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 858
+Now Data Length : 892
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.4700089963924496
+
+Loop 859
+Now Data Length : 894
+
+##parameters##
+wall: 0.43966264417335277
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 860
+Now Data Length : 896
+
+##parameters##
+wall: 0.43957279365835705
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 861
+Now Data Length : 902
+
+##parameters##
+wall: 0.43957279365835705
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 862
+Now Data Length : 904
+
+##parameters##
+wall: 0.43957279365835705
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 863
+Now Data Length : 909
+
+##parameters##
+wall: 0.43957279365835705
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 864
+Now Data Length : 910
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5357067504618068
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 865
+Now Data Length : 911
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 866
+Now Data Length : 912
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.47000809675320465
+
+Loop 867
+Now Data Length : 915
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 868
+Now Data Length : 919
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 869
+Now Data Length : 921
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 870
+Now Data Length : 927
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 871
+Now Data Length : 934
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 872
+Now Data Length : 934
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 873
+Now Data Length : 934
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.6085291514147505
+A2D: 0.4700072870778842
+
+Loop 874
+Now Data Length : 934
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 875
+Now Data Length : 935
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 876
+Now Data Length : 935
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 877
+Now Data Length : 940
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 878
+Now Data Length : 940
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 879
+Now Data Length : 945
+
+##parameters##
+wall: 0.4394919281948609
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 880
+Now Data Length : 945
+
+##parameters##
+wall: 0.43941914927771436
+enemies: 0.5354204296169557
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 881
+Now Data Length : 947
+
+##parameters##
+wall: 0.43941914927771436
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 882
+Now Data Length : 948
+
+##parameters##
+wall: 0.43941914927771436
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 883
+Now Data Length : 949
+
+##parameters##
+wall: 0.43941914927771436
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 884
+Now Data Length : 955
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 885
+Now Data Length : 956
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 886
+Now Data Length : 960
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700072870778842
+
+Loop 887
+Now Data Length : 961
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 888
+Now Data Length : 963
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5351627408565897
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 889
+Now Data Length : 964
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5349308209722603
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 890
+Now Data Length : 965
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5349308209722603
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 891
+Now Data Length : 967
+
+##parameters##
+wall: 0.43935364825228246
+enemies: 0.5349308209722603
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 892
+Now Data Length : 968
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5349308209722603
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 893
+Now Data Length : 969
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5347220930763639
+A2K: 0.607842414650692
+A2D: 0.4700065583700958
+
+Loop 894
+Now Data Length : 970
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5347220930763639
+A2K: 0.6072243515630393
+A2D: 0.4700065583700958
+
+Loop 895
+Now Data Length : 973
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5347220930763639
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 896
+Now Data Length : 976
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5347220930763639
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 897
+Now Data Length : 977
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 898
+Now Data Length : 979
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 899
+Now Data Length : 983
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 900
+Now Data Length : 983
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 901
+Now Data Length : 986
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.6072243515630393
+A2D: 0.4700059025330862
+
+Loop 902
+Now Data Length : 989
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.606668094784152
+A2D: 0.4700059025330862
+
+Loop 903
+Now Data Length : 990
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.606668094784152
+A2D: 0.4700059025330862
+
+Loop 904
+Now Data Length : 990
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5345342379700571
+A2K: 0.606668094784152
+A2D: 0.4700059025330862
+
+Loop 905
+Now Data Length : 990
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.534365168374381
+A2K: 0.606668094784152
+A2D: 0.4700059025330862
+
+Loop 906
+Now Data Length : 992
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.534365168374381
+A2K: 0.6061674636831533
+A2D: 0.4700059025330862
+
+Loop 907
+Now Data Length : 993
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.534365168374381
+A2K: 0.6061674636831533
+A2D: 0.4700053122797776
+
+Loop 908
+Now Data Length : 994
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.534365168374381
+A2K: 0.6061674636831533
+A2D: 0.4700053122797776
+
+Loop 909
+Now Data Length : 994
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6061674636831533
+A2D: 0.4700053122797776
+
+Loop 910
+Now Data Length : 997
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6061674636831533
+A2D: 0.4700053122797776
+
+Loop 911
+Now Data Length : 1002
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6061674636831533
+A2D: 0.4700047810517998
+
+Loop 912
+Now Data Length : 1007
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6061674636831533
+A2D: 0.4700047810517998
+
+Loop 913
+Now Data Length : 1008
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6061674636831533
+A2D: 0.4700047810517998
+
+Loop 914
+Now Data Length : 1011
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6066180316740521
+A2D: 0.4700047810517998
+
+Loop 915
+Now Data Length : 1016
+
+##parameters##
+wall: 0.43941259917517117
+enemies: 0.5342130057382725
+A2K: 0.6066180316740521
+A2D: 0.4700043029466198
+
+Loop 916
+Now Data Length : 1017
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5342130057382725
+A2K: 0.6066180316740521
+A2D: 0.4700043029466198
+
+Loop 917
+Now Data Length : 1021
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5340760593657747
+A2K: 0.6066180316740521
+A2D: 0.4700043029466198
+
+Loop 918
+Now Data Length : 1022
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5340760593657747
+A2K: 0.6066180316740521
+A2D: 0.4700043029466198
+
+Loop 919
+Now Data Length : 1023
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5340760593657747
+A2K: 0.6066180316740521
+A2D: 0.47000387265195787
+
+Loop 920
+Now Data Length : 1027
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5340760593657747
+A2K: 0.6066180316740521
+A2D: 0.47000387265195787
+
+Loop 921
+Now Data Length : 1028
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5339528076305269
+A2K: 0.6066180316740521
+A2D: 0.47000387265195787
+
+Loop 922
+Now Data Length : 1031
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5339528076305269
+A2K: 0.6066180316740521
+A2D: 0.47000387265195787
+
+Loop 923
+Now Data Length : 1031
+
+##parameters##
+wall: 0.43935954334457133
+enemies: 0.5339528076305269
+A2K: 0.6066180316740521
+A2D: 0.47000348538676207
+
+Loop 924
+Now Data Length : 1033
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5339528076305269
+A2K: 0.6066180316740521
+A2D: 0.47000348538676207
+
+Loop 925
+Now Data Length : 1034
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000348538676207
+
+Loop 926
+Now Data Length : 1035
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000348538676207
+
+Loop 927
+Now Data Length : 1036
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 928
+Now Data Length : 1038
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 929
+Now Data Length : 1039
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 930
+Now Data Length : 1040
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 931
+Now Data Length : 1041
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 932
+Now Data Length : 1041
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 933
+Now Data Length : 1044
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.6066180316740521
+A2D: 0.47000313684808587
+
+Loop 934
+Now Data Length : 1045
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.607023542865861
+A2D: 0.47000313684808587
+
+Loop 935
+Now Data Length : 1046
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.607023542865861
+A2D: 0.47000313684808587
+
+Loop 936
+Now Data Length : 1050
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.607023542865861
+A2D: 0.47000313684808587
+
+Loop 937
+Now Data Length : 1054
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.607023542865861
+A2D: 0.47000313684808587
+
+Loop 938
+Now Data Length : 1054
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.47000313684808587
+
+Loop 939
+Now Data Length : 1057
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 940
+Now Data Length : 1061
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 941
+Now Data Length : 1061
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 942
+Now Data Length : 1063
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 943
+Now Data Length : 1063
+
+##parameters##
+wall: 0.4393117930970315
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 944
+Now Data Length : 1063
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5338418810688038
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 945
+Now Data Length : 1069
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.533742047163253
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 946
+Now Data Length : 1072
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.533742047163253
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 947
+Now Data Length : 1073
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.533742047163253
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 948
+Now Data Length : 1073
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.533742047163253
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 949
+Now Data Length : 1074
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 950
+Now Data Length : 1078
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 951
+Now Data Length : 1078
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 952
+Now Data Length : 1079
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 953
+Now Data Length : 1079
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 954
+Now Data Length : 1079
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700028231632773
+
+Loop 955
+Now Data Length : 1079
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 956
+Now Data Length : 1082
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 957
+Now Data Length : 1082
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 958
+Now Data Length : 1082
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 959
+Now Data Length : 1084
+
+##parameters##
+wall: 0.43926881787424565
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 960
+Now Data Length : 1087
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 961
+Now Data Length : 1097
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 962
+Now Data Length : 1097
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 963
+Now Data Length : 1101
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 964
+Now Data Length : 1101
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 965
+Now Data Length : 1103
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 966
+Now Data Length : 1104
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.4700025408469496
+
+Loop 967
+Now Data Length : 1107
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.47000228676225464
+
+Loop 968
+Now Data Length : 1111
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5336521966482572
+A2K: 0.606658582793233
+A2D: 0.47000228676225464
+
+Loop 969
+Now Data Length : 1115
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5335713311847611
+A2K: 0.606658582793233
+A2D: 0.47000228676225464
+
+Loop 970
+Now Data Length : 1118
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5335713311847611
+A2K: 0.606658582793233
+A2D: 0.47000228676225464
+
+Loop 971
+Now Data Length : 1118
+
+##parameters##
+wall: 0.4392301401737384
+enemies: 0.5335713311847611
+A2K: 0.606658582793233
+A2D: 0.4700020580860292
+
+Loop 972
+Now Data Length : 1121
+
+##parameters##
+wall: 0.43919533024328183
+enemies: 0.5335713311847611
+A2K: 0.606658582793233
+A2D: 0.4700020580860292
+
+Loop 973
+Now Data Length : 1123
+
+##parameters##
+wall: 0.43919533024328183
+enemies: 0.5335713311847611
+A2K: 0.606658582793233
+A2D: 0.4700020580860292
+
+Loop 974
+Now Data Length : 1126
+
+##parameters##
+wall: 0.43919533024328183
+enemies: 0.5335713311847611
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 975
+Now Data Length : 1127
+
+##parameters##
+wall: 0.43919533024328183
+enemies: 0.5335713311847611
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 976
+Now Data Length : 1133
+
+##parameters##
+wall: 0.4392266591806927
+enemies: 0.5335713311847611
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 977
+Now Data Length : 1137
+
+##parameters##
+wall: 0.4392266591806927
+enemies: 0.5334985522676146
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 978
+Now Data Length : 1141
+
+##parameters##
+wall: 0.4392266591806927
+enemies: 0.5334985522676146
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 979
+Now Data Length : 1142
+
+##parameters##
+wall: 0.4392266591806927
+enemies: 0.5334985522676146
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 980
+Now Data Length : 1146
+
+##parameters##
+wall: 0.43925485522436253
+enemies: 0.5334985522676146
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 981
+Now Data Length : 1148
+
+##parameters##
+wall: 0.43925485522436253
+enemies: 0.5334985522676146
+A2K: 0.6063301187278678
+A2D: 0.4700020580860292
+
+Loop 982
+Now Data Length : 1152
+
+##parameters##
+wall: 0.43925485522436253
+enemies: 0.5334985522676146
+A2K: 0.6066257363866965
+A2D: 0.4700020580860292
+
+Loop 983
+Now Data Length : 1157
+
+##parameters##
+wall: 0.43925485522436253
+enemies: 0.5334985522676146
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 984
+Now Data Length : 1161
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334985522676146
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 985
+Now Data Length : 1165
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 986
+Now Data Length : 1172
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 987
+Now Data Length : 1175
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 988
+Now Data Length : 1179
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 989
+Now Data Length : 1181
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6066257363866965
+A2D: 0.47000185227742625
+
+Loop 990
+Now Data Length : 1182
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6063596804937507
+A2D: 0.47000185227742625
+
+Loop 991
+Now Data Length : 1185
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6063596804937507
+A2D: 0.4700016670496836
+
+Loop 992
+Now Data Length : 1191
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.5334330512421827
+A2K: 0.6063596804937507
+A2D: 0.4700016670496836
+
+Loop 993
+Now Data Length : 1193
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700016670496836
+
+Loop 994
+Now Data Length : 1198
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700016670496836
+
+Loop 995
+Now Data Length : 1198
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 996
+Now Data Length : 1200
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 997
+Now Data Length : 1204
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 998
+Now Data Length : 1206
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 999
+Now Data Length : 1207
+
+##parameters##
+wall: 0.43928023166366537
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 1000
+Now Data Length : 1212
+
+##parameters##
+wall: 0.4393030704590379
+enemies: 0.533374100319294
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 1001
+Now Data Length : 1215
+
+##parameters##
+wall: 0.4393030704590379
+enemies: 0.5333210444886942
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 1002
+Now Data Length : 1217
+
+##parameters##
+wall: 0.4393030704590379
+enemies: 0.5333210444886942
+A2K: 0.6063596804937507
+A2D: 0.4700015003447152
+
+Loop 1003
+Now Data Length : 1217
+
+##parameters##
+wall: 0.4393030704590379
+enemies: 0.5333210444886942
+A2K: 0.6063596804937507
+A2D: 0.4700013503102437
+
+Loop 1004
+Now Data Length : 1218
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5333210444886942
+A2K: 0.6063596804937507
+A2D: 0.4700013503102437
+
+Loop 1005
+Now Data Length : 1220
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6063596804937507
+A2D: 0.4700013503102437
+
+Loop 1006
+Now Data Length : 1224
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6065991307974019
+A2D: 0.4700013503102437
+
+Loop 1007
+Now Data Length : 1225
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6065991307974019
+A2D: 0.4700013503102437
+
+Loop 1008
+Now Data Length : 1225
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6065991307974019
+A2D: 0.4700013503102437
+
+Loop 1009
+Now Data Length : 1225
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6065991307974019
+A2D: 0.4700013503102437
+
+Loop 1010
+Now Data Length : 1232
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6063836255241158
+A2D: 0.4700013503102437
+
+Loop 1011
+Now Data Length : 1233
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6063836255241158
+A2D: 0.47000121527921934
+
+Loop 1012
+Now Data Length : 1234
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332732942411543
+A2K: 0.6063836255241158
+A2D: 0.47000121527921934
+
+Loop 1013
+Now Data Length : 1234
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.47000121527921934
+
+Loop 1014
+Now Data Length : 1238
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.47000121527921934
+
+Loop 1015
+Now Data Length : 1238
+
+##parameters##
+wall: 0.4392825155432026
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.4700010937512974
+
+Loop 1016
+Now Data Length : 1239
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.4700010937512974
+
+Loop 1017
+Now Data Length : 1243
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.4700010937512974
+
+Loop 1018
+Now Data Length : 1243
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.4700010937512974
+
+Loop 1019
+Now Data Length : 1244
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.47000098437616766
+
+Loop 1020
+Now Data Length : 1246
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.47000098437616766
+
+Loop 1021
+Now Data Length : 1250
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.47000098437616766
+
+Loop 1022
+Now Data Length : 1253
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.47000098437616766
+
+Loop 1023
+Now Data Length : 1255
+
+##parameters##
+wall: 0.43926401611895083
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1024
+Now Data Length : 1257
+
+##parameters##
+wall: 0.43924736663712427
+enemies: 0.5332303190183685
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1025
+Now Data Length : 1262
+
+##parameters##
+wall: 0.43924736663712427
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1026
+Now Data Length : 1263
+
+##parameters##
+wall: 0.43924736663712427
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1027
+Now Data Length : 1263
+
+##parameters##
+wall: 0.43924736663712427
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1028
+Now Data Length : 1263
+
+##parameters##
+wall: 0.43923238210348037
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1029
+Now Data Length : 1267
+
+##parameters##
+wall: 0.43923238210348037
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1030
+Now Data Length : 1267
+
+##parameters##
+wall: 0.43923238210348037
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1031
+Now Data Length : 1270
+
+##parameters##
+wall: 0.43923238210348037
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1032
+Now Data Length : 1270
+
+##parameters##
+wall: 0.43921889602320086
+enemies: 0.5331916413178612
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1033
+Now Data Length : 1271
+
+##parameters##
+wall: 0.43921889602320086
+enemies: 0.5331568313874047
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1034
+Now Data Length : 1275
+
+##parameters##
+wall: 0.43921889602320086
+enemies: 0.5331568313874047
+A2K: 0.6063836255241158
+A2D: 0.4700008859385509
+
+Loop 1035
+Now Data Length : 1277
+
+##parameters##
+wall: 0.43921889602320086
+enemies: 0.5331568313874047
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1036
+Now Data Length : 1279
+
+##parameters##
+wall: 0.43920675855094926
+enemies: 0.5331568313874047
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1037
+Now Data Length : 1284
+
+##parameters##
+wall: 0.43920675855094926
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1038
+Now Data Length : 1285
+
+##parameters##
+wall: 0.43920675855094926
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1039
+Now Data Length : 1285
+
+##parameters##
+wall: 0.43920675855094926
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1040
+Now Data Length : 1286
+
+##parameters##
+wall: 0.43919583482592284
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1041
+Now Data Length : 1287
+
+##parameters##
+wall: 0.43919583482592284
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1042
+Now Data Length : 1287
+
+##parameters##
+wall: 0.43919583482592284
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1043
+Now Data Length : 1288
+
+##parameters##
+wall: 0.43919583482592284
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1044
+Now Data Length : 1288
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.5331255024499938
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1045
+Now Data Length : 1291
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1046
+Now Data Length : 1292
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1047
+Now Data Length : 1293
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1048
+Now Data Length : 1296
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1049
+Now Data Length : 1299
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1050
+Now Data Length : 1300
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007973446958
+
+Loop 1051
+Now Data Length : 1302
+
+##parameters##
+wall: 0.43918600347339903
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007176102262
+
+Loop 1052
+Now Data Length : 1303
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.533097306406324
+A2K: 0.6063836255241158
+A2D: 0.4700007176102262
+
+Loop 1053
+Now Data Length : 1306
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330719299670212
+A2K: 0.6063836255241158
+A2D: 0.4700007176102262
+
+Loop 1054
+Now Data Length : 1311
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330719299670212
+A2K: 0.6063836255241158
+A2D: 0.4700007176102262
+
+Loop 1055
+Now Data Length : 1315
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330719299670212
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1056
+Now Data Length : 1316
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330719299670212
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1057
+Now Data Length : 1316
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1058
+Now Data Length : 1318
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1059
+Now Data Length : 1320
+
+##parameters##
+wall: 0.43917715525612766
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1060
+Now Data Length : 1320
+
+##parameters##
+wall: 0.4391691918605834
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1061
+Now Data Length : 1323
+
+##parameters##
+wall: 0.4391691918605834
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1062
+Now Data Length : 1324
+
+##parameters##
+wall: 0.4391691918605834
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.4700006458492036
+
+Loop 1063
+Now Data Length : 1324
+
+##parameters##
+wall: 0.4391691918605834
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1064
+Now Data Length : 1326
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330490911716487
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1065
+Now Data Length : 1327
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330285362558134
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1066
+Now Data Length : 1331
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330285362558134
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1067
+Now Data Length : 1336
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330285362558134
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1068
+Now Data Length : 1338
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330285362558134
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1069
+Now Data Length : 1338
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330100368315616
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1070
+Now Data Length : 1341
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330100368315616
+A2K: 0.6063836255241158
+A2D: 0.47000058126428323
+
+Loop 1071
+Now Data Length : 1348
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330100368315616
+A2K: 0.6063836255241158
+A2D: 0.4700005231378549
+
+Loop 1072
+Now Data Length : 1355
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5330100368315616
+A2K: 0.6063836255241158
+A2D: 0.4700005231378549
+
+Loop 1073
+Now Data Length : 1360
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.532993387349735
+A2K: 0.6063836255241158
+A2D: 0.4700005231378549
+
+Loop 1074
+Now Data Length : 1361
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.532993387349735
+A2K: 0.6063836255241158
+A2D: 0.4700005231378549
+
+Loop 1075
+Now Data Length : 1361
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.532993387349735
+A2K: 0.6063836255241158
+A2D: 0.4700004708240694
+
+Loop 1076
+Now Data Length : 1367
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.532993387349735
+A2K: 0.6063836255241158
+A2D: 0.4700004708240694
+
+Loop 1077
+Now Data Length : 1367
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329784028160911
+A2K: 0.6063836255241158
+A2D: 0.4700004708240694
+
+Loop 1078
+Now Data Length : 1369
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329784028160911
+A2K: 0.6061896707781583
+A2D: 0.4700004708240694
+
+Loop 1079
+Now Data Length : 1373
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329784028160911
+A2K: 0.6061896707781583
+A2D: 0.4700004237416625
+
+Loop 1080
+Now Data Length : 1375
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329784028160911
+A2K: 0.6061896707781583
+A2D: 0.4700004237416625
+
+Loop 1081
+Now Data Length : 1379
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329649167358116
+A2K: 0.6061896707781583
+A2D: 0.4700004237416625
+
+Loop 1082
+Now Data Length : 1382
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329649167358116
+A2K: 0.6061896707781583
+A2D: 0.4700004237416625
+
+Loop 1083
+Now Data Length : 1382
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329649167358116
+A2K: 0.6061896707781583
+A2D: 0.4700003813674963
+
+Loop 1084
+Now Data Length : 1384
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.5329649167358116
+A2K: 0.6061896707781583
+A2D: 0.4700003813674963
+
+Loop 1085
+Now Data Length : 1385
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.53295277926356
+A2K: 0.6061896707781583
+A2D: 0.4700003813674963
+
+Loop 1086
+Now Data Length : 1386
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.53295277926356
+A2K: 0.6061896707781583
+A2D: 0.4700003813674963
+
+Loop 1087
+Now Data Length : 1394
+
+##parameters##
+wall: 0.43917635891657325
+enemies: 0.53295277926356
+A2K: 0.6061896707781583
+A2D: 0.47000034323074663
+
+Loop 1088
+Now Data Length : 1395
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.53295277926356
+A2K: 0.6061896707781583
+A2D: 0.47000034323074663
+
+Loop 1089
+Now Data Length : 1400
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329418555385336
+A2K: 0.6061896707781583
+A2D: 0.47000034323074663
+
+Loop 1090
+Now Data Length : 1401
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329418555385336
+A2K: 0.6061896707781583
+A2D: 0.47000034323074663
+
+Loop 1091
+Now Data Length : 1405
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329418555385336
+A2K: 0.6061896707781583
+A2D: 0.47000030890767197
+
+Loop 1092
+Now Data Length : 1409
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329418555385336
+A2K: 0.6061896707781583
+A2D: 0.47000030890767197
+
+Loop 1093
+Now Data Length : 1415
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329320241860098
+A2K: 0.6061896707781583
+A2D: 0.47000030890767197
+
+Loop 1094
+Now Data Length : 1418
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329320241860098
+A2K: 0.6060151115067965
+A2D: 0.47000030890767197
+
+Loop 1095
+Now Data Length : 1420
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329320241860098
+A2K: 0.6060151115067965
+A2D: 0.47000027801690475
+
+Loop 1096
+Now Data Length : 1421
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329320241860098
+A2K: 0.6060151115067965
+A2D: 0.47000027801690475
+
+Loop 1097
+Now Data Length : 1423
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329231759687384
+A2K: 0.6060151115067965
+A2D: 0.47000027801690475
+
+Loop 1098
+Now Data Length : 1425
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329231759687384
+A2K: 0.6060151115067965
+A2D: 0.47000027801690475
+
+Loop 1099
+Now Data Length : 1426
+
+##parameters##
+wall: 0.4391699085661824
+enemies: 0.5329231759687384
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1100
+Now Data Length : 1428
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329231759687384
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1101
+Now Data Length : 1433
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329152125731942
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1102
+Now Data Length : 1436
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329152125731942
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1103
+Now Data Length : 1436
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329152125731942
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1104
+Now Data Length : 1439
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329152125731942
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1105
+Now Data Length : 1439
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329080455172044
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1106
+Now Data Length : 1444
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329080455172044
+A2K: 0.6060151115067965
+A2D: 0.4700002502152143
+
+Loop 1107
+Now Data Length : 1448
+
+##parameters##
+wall: 0.4391641032508306
+enemies: 0.5329080455172044
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1108
+Now Data Length : 1450
+
+##parameters##
+wall: 0.439158878467014
+enemies: 0.5329080455172044
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1109
+Now Data Length : 1456
+
+##parameters##
+wall: 0.439158878467014
+enemies: 0.5329015951668136
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1110
+Now Data Length : 1461
+
+##parameters##
+wall: 0.439158878467014
+enemies: 0.5329015951668136
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1111
+Now Data Length : 1467
+
+##parameters##
+wall: 0.439158878467014
+enemies: 0.5329015951668136
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1112
+Now Data Length : 1469
+
+##parameters##
+wall: 0.4391541761615791
+enemies: 0.5329015951668136
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1113
+Now Data Length : 1470
+
+##parameters##
+wall: 0.4391541761615791
+enemies: 0.5328957898514618
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1114
+Now Data Length : 1476
+
+##parameters##
+wall: 0.4391541761615791
+enemies: 0.5328957898514618
+A2K: 0.6060151115067965
+A2D: 0.4700002251936929
+
+Loop 1115
+Now Data Length : 1481
+
+##parameters##
+wall: 0.4391541761615791
+enemies: 0.5328957898514618
+A2K: 0.6060151115067965
+A2D: 0.47000020267432363
+
+Loop 1116
+Now Data Length : 1482
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328957898514618
+A2K: 0.6060151115067965
+A2D: 0.47000020267432363
+
+Loop 1117
+Now Data Length : 1485
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.6060151115067965
+A2D: 0.47000020267432363
+
+Loop 1118
+Now Data Length : 1486
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.47000020267432363
+
+Loop 1119
+Now Data Length : 1489
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.47000020267432363
+
+Loop 1120
+Now Data Length : 1489
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.47000020267432363
+
+Loop 1121
+Now Data Length : 1492
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.47000020267432363
+
+Loop 1122
+Now Data Length : 1494
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.47000020267432363
+
+Loop 1123
+Now Data Length : 1496
+
+##parameters##
+wall: 0.43914994408668767
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.4700001824068913
+
+Loop 1124
+Now Data Length : 1499
+
+##parameters##
+wall: 0.43914613521928536
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.4700001824068913
+
+Loop 1125
+Now Data Length : 1502
+
+##parameters##
+wall: 0.43914613521928536
+enemies: 0.5328905650676452
+A2K: 0.605858008162571
+A2D: 0.4700001824068913
+
+Loop 1126
+Now Data Length : 1502
+
+##parameters##
+wall: 0.43914613521928536
+enemies: 0.5328905650676452
+A2K: 0.6059994011723739
+A2D: 0.4700001824068913
+
+Loop 1127
+Now Data Length : 1503
+
+##parameters##
+wall: 0.43914613521928536
+enemies: 0.5328905650676452
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1128
+Now Data Length : 1506
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328905650676452
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1129
+Now Data Length : 1507
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328858627622103
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1130
+Now Data Length : 1515
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328858627622103
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1131
+Now Data Length : 1519
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328858627622103
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1132
+Now Data Length : 1522
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328858627622103
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1133
+Now Data Length : 1523
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328816306873189
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1134
+Now Data Length : 1524
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328816306873189
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1135
+Now Data Length : 1524
+
+##parameters##
+wall: 0.4391427072386233
+enemies: 0.5328816306873189
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1136
+Now Data Length : 1529
+
+##parameters##
+wall: 0.43913962205602747
+enemies: 0.5328816306873189
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1137
+Now Data Length : 1534
+
+##parameters##
+wall: 0.43913962205602747
+enemies: 0.5328778218199166
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1138
+Now Data Length : 1536
+
+##parameters##
+wall: 0.43913962205602747
+enemies: 0.5328778218199166
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1139
+Now Data Length : 1539
+
+##parameters##
+wall: 0.43913962205602747
+enemies: 0.5328778218199166
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1140
+Now Data Length : 1541
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1141
+Now Data Length : 1543
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6059994011723739
+A2D: 0.47000016416620216
+
+Loop 1142
+Now Data Length : 1543
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000016416620216
+
+Loop 1143
+Now Data Length : 1544
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1144
+Now Data Length : 1546
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1145
+Now Data Length : 1549
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1146
+Now Data Length : 1549
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1147
+Now Data Length : 1552
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1148
+Now Data Length : 1554
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1149
+Now Data Length : 1558
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6058721474635512
+A2D: 0.47000014774958193
+
+Loop 1150
+Now Data Length : 1558
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1151
+Now Data Length : 1559
+
+##parameters##
+wall: 0.4391368453916912
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1152
+Now Data Length : 1564
+
+##parameters##
+wall: 0.4391343463937885
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1153
+Now Data Length : 1567
+
+##parameters##
+wall: 0.4391343463937885
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1154
+Now Data Length : 1570
+
+##parameters##
+wall: 0.4391343463937885
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1155
+Now Data Length : 1576
+
+##parameters##
+wall: 0.4391343463937885
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1156
+Now Data Length : 1577
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328778218199166
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1157
+Now Data Length : 1584
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328743938392545
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1158
+Now Data Length : 1587
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328743938392545
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1159
+Now Data Length : 1589
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328743938392545
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1160
+Now Data Length : 1592
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328743938392545
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1161
+Now Data Length : 1595
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328713086566587
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1162
+Now Data Length : 1596
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328713086566587
+A2K: 0.6057576191256108
+A2D: 0.47000014774958193
+
+Loop 1163
+Now Data Length : 1597
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328713086566587
+A2K: 0.6057576191256108
+A2D: 0.47000013297462373
+
+Loop 1164
+Now Data Length : 1598
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328713086566587
+A2K: 0.6057576191256108
+A2D: 0.47000013297462373
+
+Loop 1165
+Now Data Length : 1599
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328685319923224
+A2K: 0.6057576191256108
+A2D: 0.47000013297462373
+
+Loop 1166
+Now Data Length : 1601
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328685319923224
+A2K: 0.6058606946297572
+A2D: 0.47000013297462373
+
+Loop 1167
+Now Data Length : 1603
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328685319923224
+A2K: 0.6058606946297572
+A2D: 0.4700001196771614
+
+Loop 1168
+Now Data Length : 1607
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328685319923224
+A2K: 0.6058606946297572
+A2D: 0.4700001196771614
+
+Loop 1169
+Now Data Length : 1609
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328660329944198
+A2K: 0.6058606946297572
+A2D: 0.4700001196771614
+
+Loop 1170
+Now Data Length : 1614
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328660329944198
+A2K: 0.6058606946297572
+A2D: 0.4700001196771614
+
+Loop 1171
+Now Data Length : 1622
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328660329944198
+A2K: 0.6058606946297572
+A2D: 0.4700001077094452
+
+Loop 1172
+Now Data Length : 1625
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328660329944198
+A2K: 0.6058606946297572
+A2D: 0.4700001077094452
+
+Loop 1173
+Now Data Length : 1628
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328637838963074
+A2K: 0.6058606946297572
+A2D: 0.4700001077094452
+
+Loop 1174
+Now Data Length : 1631
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328637838963074
+A2K: 0.6058606946297572
+A2D: 0.4700001077094452
+
+Loop 1175
+Now Data Length : 1634
+
+##parameters##
+wall: 0.43913209729567615
+enemies: 0.5328637838963074
+A2K: 0.6058606946297572
+A2D: 0.4700000969385007
+
+Loop 1176
+Now Data Length : 1635
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328637838963074
+A2K: 0.6058606946297572
+A2D: 0.4700000969385007
+
+Loop 1177
+Now Data Length : 1637
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328617597080062
+A2K: 0.6058606946297572
+A2D: 0.4700000969385007
+
+Loop 1178
+Now Data Length : 1639
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328617597080062
+A2K: 0.6058606946297572
+A2D: 0.4700000969385007
+
+Loop 1179
+Now Data Length : 1642
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328617597080062
+A2K: 0.6058606946297572
+A2D: 0.47000008724465064
+
+Loop 1180
+Now Data Length : 1647
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328617597080062
+A2K: 0.6058606946297572
+A2D: 0.47000008724465064
+
+Loop 1181
+Now Data Length : 1647
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328599379385351
+A2K: 0.6058606946297572
+A2D: 0.47000008724465064
+
+Loop 1182
+Now Data Length : 1649
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328599379385351
+A2K: 0.605953462583489
+A2D: 0.47000008724465064
+
+Loop 1183
+Now Data Length : 1650
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328599379385351
+A2K: 0.605953462583489
+A2D: 0.47000008724465064
+
+Loop 1184
+Now Data Length : 1652
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328599379385351
+A2K: 0.605953462583489
+A2D: 0.47000008724465064
+
+Loop 1185
+Now Data Length : 1653
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328582983460112
+A2K: 0.605953462583489
+A2D: 0.47000008724465064
+
+Loop 1186
+Now Data Length : 1654
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328582983460112
+A2K: 0.6060369537418476
+A2D: 0.47000008724465064
+
+Loop 1187
+Now Data Length : 1657
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328582983460112
+A2K: 0.6060369537418476
+A2D: 0.4700000785201856
+
+Loop 1188
+Now Data Length : 1663
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328582983460112
+A2K: 0.6060369537418476
+A2D: 0.4700000785201856
+
+Loop 1189
+Now Data Length : 1666
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328568227127396
+A2K: 0.6060369537418476
+A2D: 0.4700000785201856
+
+Loop 1190
+Now Data Length : 1667
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328568227127396
+A2K: 0.6060369537418476
+A2D: 0.4700000785201856
+
+Loop 1191
+Now Data Length : 1669
+
+##parameters##
+wall: 0.439130073107375
+enemies: 0.5328568227127396
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1192
+Now Data Length : 1675
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328568227127396
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1193
+Now Data Length : 1676
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328554946427952
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1194
+Now Data Length : 1680
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328554946427952
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1195
+Now Data Length : 1682
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328554946427952
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1196
+Now Data Length : 1683
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328554946427952
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1197
+Now Data Length : 1685
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328542993798453
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1198
+Now Data Length : 1690
+
+##parameters##
+wall: 0.43912825133790395
+enemies: 0.5328542993798453
+A2K: 0.6060369537418476
+A2D: 0.47000007066816707
+
+Loop 1199
+Now Data Length : 1693

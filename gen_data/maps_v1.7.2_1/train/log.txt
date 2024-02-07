@@ -1,0 +1,4510 @@
+initMakeLabels:0
+completed.
+initMakeLabels:1
+completed.
+initMakeLabels:2
+completed.
+initMakeLabels:3
+completed.
+initMakeLabels:4
+completed.
+Loop 0
+Now Data Length : 5
+
+##parameters##
+wall: 0.48
+enemies: 0.49
+A2K: 0.48
+A2D: 0.43999999999999995
+
+Loop 1
+Now Data Length : 13
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 2
+Now Data Length : 18
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 3
+Now Data Length : 29
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 4
+Now Data Length : 33
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 5
+Now Data Length : 38
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 6
+Now Data Length : 42
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 7
+Now Data Length : 48
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 8
+Now Data Length : 59
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 9
+Now Data Length : 68
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 10
+Now Data Length : 77
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 11
+Now Data Length : 82
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 12
+Now Data Length : 86
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 13
+Now Data Length : 95
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 14
+Now Data Length : 107
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 15
+Now Data Length : 113
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 16
+Now Data Length : 123
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 17
+Now Data Length : 126
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 18
+Now Data Length : 129
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 19
+Now Data Length : 133
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 20
+Now Data Length : 137
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 21
+Now Data Length : 145
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 22
+Now Data Length : 152
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 23
+Now Data Length : 157
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 24
+Now Data Length : 163
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 25
+Now Data Length : 167
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 26
+Now Data Length : 177
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 27
+Now Data Length : 184
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 28
+Now Data Length : 192
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 29
+Now Data Length : 200
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 30
+Now Data Length : 208
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 31
+Now Data Length : 214
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 32
+Now Data Length : 222
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 33
+Now Data Length : 225
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 34
+Now Data Length : 231
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 35
+Now Data Length : 236
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 36
+Now Data Length : 243
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 37
+Now Data Length : 247
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 38
+Now Data Length : 250
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 39
+Now Data Length : 261
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 40
+Now Data Length : 266
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 41
+Now Data Length : 273
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 42
+Now Data Length : 278
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 43
+Now Data Length : 287
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 44
+Now Data Length : 294
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 45
+Now Data Length : 302
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 46
+Now Data Length : 306
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 47
+Now Data Length : 313
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 48
+Now Data Length : 319
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 49
+Now Data Length : 325
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 50
+Now Data Length : 330
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 51
+Now Data Length : 337
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 52
+Now Data Length : 345
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 53
+Now Data Length : 351
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 54
+Now Data Length : 355
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 55
+Now Data Length : 362
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 56
+Now Data Length : 368
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 57
+Now Data Length : 372
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 58
+Now Data Length : 380
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 59
+Now Data Length : 384
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 60
+Now Data Length : 390
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 61
+Now Data Length : 399
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 62
+Now Data Length : 405
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 63
+Now Data Length : 409
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 64
+Now Data Length : 418
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 65
+Now Data Length : 426
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 66
+Now Data Length : 432
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 67
+Now Data Length : 434
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 68
+Now Data Length : 435
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 69
+Now Data Length : 447
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 70
+Now Data Length : 452
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 71
+Now Data Length : 460
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 72
+Now Data Length : 469
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 73
+Now Data Length : 475
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 74
+Now Data Length : 481
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 75
+Now Data Length : 487
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 76
+Now Data Length : 493
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 77
+Now Data Length : 497
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 78
+Now Data Length : 504
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 79
+Now Data Length : 509
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 80
+Now Data Length : 514
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 81
+Now Data Length : 520
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 82
+Now Data Length : 527
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 83
+Now Data Length : 533
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 84
+Now Data Length : 539
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 85
+Now Data Length : 546
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 86
+Now Data Length : 553
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 87
+Now Data Length : 559
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 88
+Now Data Length : 567
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 89
+Now Data Length : 575
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 90
+Now Data Length : 582
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 91
+Now Data Length : 588
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 92
+Now Data Length : 595
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 93
+Now Data Length : 604
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 94
+Now Data Length : 608
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 95
+Now Data Length : 613
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 96
+Now Data Length : 620
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 97
+Now Data Length : 626
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 98
+Now Data Length : 632
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 99
+Now Data Length : 639
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 100
+Now Data Length : 643
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 101
+Now Data Length : 647
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 102
+Now Data Length : 651
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 103
+Now Data Length : 660
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 104
+Now Data Length : 667
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 105
+Now Data Length : 671
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 106
+Now Data Length : 677
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 107
+Now Data Length : 684
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 108
+Now Data Length : 689
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 109
+Now Data Length : 697
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 110
+Now Data Length : 702
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 111
+Now Data Length : 707
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 112
+Now Data Length : 714
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 113
+Now Data Length : 721
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 114
+Now Data Length : 725
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 115
+Now Data Length : 733
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 116
+Now Data Length : 736
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 117
+Now Data Length : 744
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 118
+Now Data Length : 750
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 119
+Now Data Length : 754
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 120
+Now Data Length : 759
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 121
+Now Data Length : 764
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 122
+Now Data Length : 768
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 123
+Now Data Length : 773
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 124
+Now Data Length : 778
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 125
+Now Data Length : 784
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 126
+Now Data Length : 791
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 127
+Now Data Length : 799
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 128
+Now Data Length : 810
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 129
+Now Data Length : 815
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 130
+Now Data Length : 823
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 131
+Now Data Length : 828
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 132
+Now Data Length : 833
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 133
+Now Data Length : 840
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 134
+Now Data Length : 842
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 135
+Now Data Length : 848
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 136
+Now Data Length : 853
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 137
+Now Data Length : 859
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 138
+Now Data Length : 864
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 139
+Now Data Length : 869
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 140
+Now Data Length : 875
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 141
+Now Data Length : 882
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 142
+Now Data Length : 890
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 143
+Now Data Length : 896
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 144
+Now Data Length : 900
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 145
+Now Data Length : 907
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 146
+Now Data Length : 911
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 147
+Now Data Length : 915
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 148
+Now Data Length : 919
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 149
+Now Data Length : 924
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 150
+Now Data Length : 929
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 151
+Now Data Length : 936
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 152
+Now Data Length : 941
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 153
+Now Data Length : 945
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 154
+Now Data Length : 951
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 155
+Now Data Length : 957
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 156
+Now Data Length : 963
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 157
+Now Data Length : 970
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 158
+Now Data Length : 978
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 159
+Now Data Length : 983
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 160
+Now Data Length : 989
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 161
+Now Data Length : 995
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 162
+Now Data Length : 1002
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 163
+Now Data Length : 1003
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 164
+Now Data Length : 1008
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 165
+Now Data Length : 1015
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 166
+Now Data Length : 1024
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 167
+Now Data Length : 1031
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 168
+Now Data Length : 1035
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 169
+Now Data Length : 1043
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 170
+Now Data Length : 1051
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 171
+Now Data Length : 1056
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 172
+Now Data Length : 1065
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 173
+Now Data Length : 1069
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 174
+Now Data Length : 1073
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 175
+Now Data Length : 1080
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 176
+Now Data Length : 1088
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 177
+Now Data Length : 1093
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 178
+Now Data Length : 1103
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 179
+Now Data Length : 1109
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 180
+Now Data Length : 1112
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 181
+Now Data Length : 1117
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 182
+Now Data Length : 1121
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 183
+Now Data Length : 1125
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 184
+Now Data Length : 1131
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 185
+Now Data Length : 1134
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 186
+Now Data Length : 1139
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 187
+Now Data Length : 1141
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 188
+Now Data Length : 1151
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 189
+Now Data Length : 1152
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 190
+Now Data Length : 1160
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 191
+Now Data Length : 1167
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 192
+Now Data Length : 1177
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 193
+Now Data Length : 1185
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 194
+Now Data Length : 1195
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 195
+Now Data Length : 1202
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 196
+Now Data Length : 1209
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 197
+Now Data Length : 1218
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 198
+Now Data Length : 1223
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 199
+Now Data Length : 1235
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 200
+Now Data Length : 1241
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 201
+Now Data Length : 1249
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 202
+Now Data Length : 1256
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 203
+Now Data Length : 1263
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 204
+Now Data Length : 1272
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 205
+Now Data Length : 1278
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 206
+Now Data Length : 1285
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 207
+Now Data Length : 1293
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 208
+Now Data Length : 1297
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 209
+Now Data Length : 1302
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 210
+Now Data Length : 1308
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 211
+Now Data Length : 1312
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 212
+Now Data Length : 1320
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 213
+Now Data Length : 1326
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 214
+Now Data Length : 1333
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 215
+Now Data Length : 1340
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 216
+Now Data Length : 1348
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 217
+Now Data Length : 1356
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 218
+Now Data Length : 1361
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 219
+Now Data Length : 1366
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 220
+Now Data Length : 1372
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 221
+Now Data Length : 1378
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 222
+Now Data Length : 1383
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 223
+Now Data Length : 1387
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 224
+Now Data Length : 1395
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 225
+Now Data Length : 1400
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 226
+Now Data Length : 1405
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 227
+Now Data Length : 1409
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 228
+Now Data Length : 1419
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 229
+Now Data Length : 1426
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 230
+Now Data Length : 1431
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 231
+Now Data Length : 1438
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 232
+Now Data Length : 1444
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 233
+Now Data Length : 1451
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 234
+Now Data Length : 1460
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 235
+Now Data Length : 1464
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 236
+Now Data Length : 1472
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 237
+Now Data Length : 1477
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 238
+Now Data Length : 1481
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 239
+Now Data Length : 1487
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 240
+Now Data Length : 1490
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 241
+Now Data Length : 1494
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 242
+Now Data Length : 1503
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 243
+Now Data Length : 1510
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 244
+Now Data Length : 1519
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 245
+Now Data Length : 1525
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 246
+Now Data Length : 1533
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 247
+Now Data Length : 1538
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 248
+Now Data Length : 1541
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 249
+Now Data Length : 1543
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 250
+Now Data Length : 1548
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 251
+Now Data Length : 1551
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 252
+Now Data Length : 1557
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 253
+Now Data Length : 1567
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 254
+Now Data Length : 1573
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 255
+Now Data Length : 1577
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 256
+Now Data Length : 1588
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 257
+Now Data Length : 1593
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 258
+Now Data Length : 1596
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 259
+Now Data Length : 1600
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 260
+Now Data Length : 1611
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 261
+Now Data Length : 1618
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 262
+Now Data Length : 1627
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 263
+Now Data Length : 1635
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 264
+Now Data Length : 1645
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 265
+Now Data Length : 1653
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 266
+Now Data Length : 1658
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 267
+Now Data Length : 1664
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 268
+Now Data Length : 1667
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 269
+Now Data Length : 1670
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 270
+Now Data Length : 1673
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 271
+Now Data Length : 1683
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 272
+Now Data Length : 1688
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 273
+Now Data Length : 1692
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 274
+Now Data Length : 1704
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 275
+Now Data Length : 1709
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 276
+Now Data Length : 1721
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 277
+Now Data Length : 1729
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 278
+Now Data Length : 1734
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 279
+Now Data Length : 1742
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 280
+Now Data Length : 1749
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 281
+Now Data Length : 1751
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 282
+Now Data Length : 1756
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 283
+Now Data Length : 1762
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 284
+Now Data Length : 1765
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 285
+Now Data Length : 1769
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 286
+Now Data Length : 1776
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 287
+Now Data Length : 1781
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 288
+Now Data Length : 1789
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 289
+Now Data Length : 1801
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 290
+Now Data Length : 1808
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 291
+Now Data Length : 1814
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 292
+Now Data Length : 1821
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 293
+Now Data Length : 1831
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 294
+Now Data Length : 1837
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 295
+Now Data Length : 1843
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 296
+Now Data Length : 1846
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 297
+Now Data Length : 1854
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 298
+Now Data Length : 1860
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 299
+Now Data Length : 1866
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 300
+Now Data Length : 1877
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 301
+Now Data Length : 1884
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 302
+Now Data Length : 1887
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 303
+Now Data Length : 1894
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 304
+Now Data Length : 1896
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 305
+Now Data Length : 1903
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 306
+Now Data Length : 1915
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 307
+Now Data Length : 1918
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 308
+Now Data Length : 1922
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 309
+Now Data Length : 1925
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 310
+Now Data Length : 1930
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 311
+Now Data Length : 1936
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 312
+Now Data Length : 1940
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 313
+Now Data Length : 1948
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 314
+Now Data Length : 1956
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 315
+Now Data Length : 1962
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 316
+Now Data Length : 1966
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 317
+Now Data Length : 1972
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 318
+Now Data Length : 1978
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 319
+Now Data Length : 1984
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 320
+Now Data Length : 1991
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 321
+Now Data Length : 1996
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 322
+Now Data Length : 2002
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 323
+Now Data Length : 2007
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 324
+Now Data Length : 2014
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 325
+Now Data Length : 2022
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 326
+Now Data Length : 2028
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 327
+Now Data Length : 2032
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 328
+Now Data Length : 2039
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 329
+Now Data Length : 2044
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 330
+Now Data Length : 2051
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 331
+Now Data Length : 2055
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 332
+Now Data Length : 2061
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 333
+Now Data Length : 2066
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 334
+Now Data Length : 2070
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 335
+Now Data Length : 2075
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 336
+Now Data Length : 2078
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 337
+Now Data Length : 2081
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 338
+Now Data Length : 2087
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 339
+Now Data Length : 2092
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 340
+Now Data Length : 2094
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 341
+Now Data Length : 2101
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 342
+Now Data Length : 2106
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 343
+Now Data Length : 2109
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 344
+Now Data Length : 2116
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 345
+Now Data Length : 2118
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 346
+Now Data Length : 2126
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 347
+Now Data Length : 2135
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 348
+Now Data Length : 2139
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 349
+Now Data Length : 2143
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 350
+Now Data Length : 2150
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 351
+Now Data Length : 2155
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 352
+Now Data Length : 2159
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 353
+Now Data Length : 2163
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 354
+Now Data Length : 2165
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 355
+Now Data Length : 2173
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 356
+Now Data Length : 2178
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 357
+Now Data Length : 2183
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 358
+Now Data Length : 2187
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 359
+Now Data Length : 2192
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 360
+Now Data Length : 2199
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 361
+Now Data Length : 2206
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 362
+Now Data Length : 2210
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 363
+Now Data Length : 2214
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 364
+Now Data Length : 2222
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 365
+Now Data Length : 2225
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 366
+Now Data Length : 2234
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 367
+Now Data Length : 2240
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 368
+Now Data Length : 2245
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 369
+Now Data Length : 2253
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 370
+Now Data Length : 2261
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 371
+Now Data Length : 2265
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 372
+Now Data Length : 2270
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 373
+Now Data Length : 2279
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 374
+Now Data Length : 2284
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 375
+Now Data Length : 2292
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 376
+Now Data Length : 2295
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 377
+Now Data Length : 2297
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 378
+Now Data Length : 2302
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 379
+Now Data Length : 2309
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 380
+Now Data Length : 2316
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 381
+Now Data Length : 2329
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 382
+Now Data Length : 2333
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 383
+Now Data Length : 2338
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 384
+Now Data Length : 2347
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 385
+Now Data Length : 2351
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 386
+Now Data Length : 2356
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 387
+Now Data Length : 2364
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 388
+Now Data Length : 2369
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 389
+Now Data Length : 2375
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 390
+Now Data Length : 2381
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 391
+Now Data Length : 2388
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 392
+Now Data Length : 2394
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 393
+Now Data Length : 2402
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 394
+Now Data Length : 2408
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 395
+Now Data Length : 2414
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 396
+Now Data Length : 2422
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 397
+Now Data Length : 2426
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 398
+Now Data Length : 2434
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 399
+Now Data Length : 2440
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 400
+Now Data Length : 2444
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 401
+Now Data Length : 2450
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 402
+Now Data Length : 2457
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 403
+Now Data Length : 2464
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 404
+Now Data Length : 2472
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 405
+Now Data Length : 2481
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 406
+Now Data Length : 2488
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 407
+Now Data Length : 2490
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 408
+Now Data Length : 2491
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 409
+Now Data Length : 2497
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 410
+Now Data Length : 2501
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 411
+Now Data Length : 2505
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 412
+Now Data Length : 2511
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 413
+Now Data Length : 2522
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 414
+Now Data Length : 2524
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 415
+Now Data Length : 2532
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 416
+Now Data Length : 2542
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 417
+Now Data Length : 2549
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 418
+Now Data Length : 2554
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 419
+Now Data Length : 2559
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 420
+Now Data Length : 2561
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 421
+Now Data Length : 2573
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 422
+Now Data Length : 2582
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 423
+Now Data Length : 2590
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 424
+Now Data Length : 2597
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 425
+Now Data Length : 2608
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 426
+Now Data Length : 2615
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 427
+Now Data Length : 2622
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 428
+Now Data Length : 2628
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 429
+Now Data Length : 2635
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 430
+Now Data Length : 2641
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 431
+Now Data Length : 2648
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 432
+Now Data Length : 2649
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 433
+Now Data Length : 2656
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 434
+Now Data Length : 2664
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 435
+Now Data Length : 2670
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 436
+Now Data Length : 2672
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 437
+Now Data Length : 2677
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 438
+Now Data Length : 2680
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 439
+Now Data Length : 2688
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 440
+Now Data Length : 2696
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 441
+Now Data Length : 2703
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 442
+Now Data Length : 2708
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 443
+Now Data Length : 2712
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 444
+Now Data Length : 2717
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 445
+Now Data Length : 2726
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 446
+Now Data Length : 2729
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 447
+Now Data Length : 2735
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 448
+Now Data Length : 2739
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 449
+Now Data Length : 2743
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 450
+Now Data Length : 2748
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 451
+Now Data Length : 2754
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 452
+Now Data Length : 2761
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 453
+Now Data Length : 2771
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 454
+Now Data Length : 2781
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 455
+Now Data Length : 2791
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 456
+Now Data Length : 2793
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 457
+Now Data Length : 2798
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 458
+Now Data Length : 2804
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 459
+Now Data Length : 2811
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 460
+Now Data Length : 2821
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 461
+Now Data Length : 2823
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 462
+Now Data Length : 2830
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 463
+Now Data Length : 2839
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 464
+Now Data Length : 2847
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 465
+Now Data Length : 2851
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 466
+Now Data Length : 2858
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 467
+Now Data Length : 2864
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 468
+Now Data Length : 2873
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 469
+Now Data Length : 2879
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 470
+Now Data Length : 2888
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 471
+Now Data Length : 2899
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 472
+Now Data Length : 2906
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 473
+Now Data Length : 2913
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 474
+Now Data Length : 2919
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 475
+Now Data Length : 2926
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 476
+Now Data Length : 2934
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 477
+Now Data Length : 2939
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 478
+Now Data Length : 2944
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 479
+Now Data Length : 2947
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 480
+Now Data Length : 2953
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 481
+Now Data Length : 2958
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 482
+Now Data Length : 2964
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 483
+Now Data Length : 2968
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 484
+Now Data Length : 2976
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 485
+Now Data Length : 2985
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 486
+Now Data Length : 2988
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 487
+Now Data Length : 2996
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 488
+Now Data Length : 3002
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 489
+Now Data Length : 3010
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 490
+Now Data Length : 3013
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 491
+Now Data Length : 3017
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 492
+Now Data Length : 3025
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 493
+Now Data Length : 3030
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 494
+Now Data Length : 3036
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 495
+Now Data Length : 3041
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 496
+Now Data Length : 3045
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 497
+Now Data Length : 3052
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 498
+Now Data Length : 3061
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
+Loop 499
+Now Data Length : 3065
+
+##parameters##
+wall: 0.48
+enemies: 0.48
+A2K: 0.48
+A2D: 0.48
+
