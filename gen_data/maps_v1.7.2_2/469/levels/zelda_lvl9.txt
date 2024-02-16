@@ -1,9 +1,0 @@
-wwwwwwwwwwwww
-w1..........w
-w...........w
-w.........g.w
-w..1.....+2.w
-w......2...3w
-w..A......3.w
-w...........w
-wwwwwwwwwwwww
